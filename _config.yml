@@ -1,5 +1,10 @@
-title: Minimal theme
-description: Minimal is a theme for GitHub Pages.
-show_downloads: false
+title: Jacky Liang
+show_downloads: true
 google_analytics: UA-72166690-1
 theme: jekyll-theme-minimal
+
+# urls
+urls:
+    linkedin: "https://www.linkedin.com/in/jackyliang42"
+    github: "https://www.github.com/jacky-liang"
+    scholar: "https://scholar.google.com/citations?user=V0_h0C8AAAAJ&hl=en"
