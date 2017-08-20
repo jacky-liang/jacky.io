@@ -2,122 +2,31 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Publications
 
-[Link to another page](another-page).
+### _Using dVRK Teleoperation to Facilitate Deep Learning of Automation Tasksfor an Industrial Robot._ 
+Jacky Liang, Jeffrey Mahler, Michael Laskey, Pusong Li, Ken Goldberg. IEEE Conference on Automation Science and Engineering (CASE), Xi'an, China, August 2017. Best Student Paper Award Finalist. 
+[\[PDF\]](https://berkeleyautomation.github.io/teleop/documents/DY-Teleop-CASE-2017_final.pdf)
+[\[Project Website\]](https://berkeleyautomation.github.io/teleop/)
+<img class="pub-img" src="{{ site.baseurl }}/assets/imgs/dy-teleop.png">
 
-There should be whitespace between paragraphs.
+### _Dex-Net 2.0: Deep Learning to Plan Robust Grasps with Synthetic Point Clouds and Analytic Grasp Metrics._
+Jeffrey Mahler, Jacky Liang, Sherdil Niyaz, Michael Laskey, Richard Doan, Xinyu Liu, Juan Aparicio Ojea, Ken Goldberg. Robotics: Science and Systems (RSS). MIT Cambridge, MA. July 2017.
+[\[PDF\]](https://github.com/BerkeleyAutomation/dex-net/raw/gh-pages/docs/dexnet_rss2017_final.pdf)
+[\[Project Website\]](https://berkeleyautomation.github.io/dex-net/)
+<img class="pub-img" src="{{ site.baseurl }}/assets/imgs/dex-net.png">
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### _Design of Parallel-Jaw Gripper Tip Surfaces for Robust Grasping._
+Menglong Guo, David V. Gealy, Jacky Liang, Jeffrey Mahler, Aimee Goncalves, Stephen McKinley, Ken Goldberg. 2017 IEEE International Conference on Robotics and Automation (ICRA). May 2017.
+[\[PDF\]](http://goldberg.berkeley.edu/pubs/gripper-tip-surface-design-icra-2017-camera-ready.pdf)
 
-# [](#header-1)Header 1
+# Teaching
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### _CS188 Introduction to Artificial Intelligence_
+Spring 2017 Discussion Teaching Assistant
+### _EE16A Design of Information Devices and Systems_
+Fall 2016, 2017 Discussion Teaching Assistant
 
-## [](#header-2)Header 2
+# Education
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### [](#header-3)Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### [](#header-4)Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+### University of California Berkeley _Electrical Engineering and Computer Science_, Bachelor of Science, Class of 2018

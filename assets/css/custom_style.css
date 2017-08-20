@@ -1,5 +1,17 @@
-.contact-icon {
+.contact-icon.linkedin{
+    margin-top: 3px;
+}
+
+.contact-icon.github {
     margin-top: 4px;
+}
+
+.contact-icon.scholar {
+    margin-top: 4px;
+}
+
+.pub-img {
+    margin: 10px 0 10px 0;
 }
 
 .profile-img {
