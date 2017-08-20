@@ -4,7 +4,7 @@ layout: default
 
 # Publications
 
-### _Using dVRK Teleoperation to Facilitate Deep Learning of Automation Tasksfor an Industrial Robot._ 
+### _Using dVRK Teleoperation to Facilitate Deep Learning of Automation Tasks for an Industrial Robot._ 
 Jacky Liang, Jeffrey Mahler, Michael Laskey, Pusong Li, Ken Goldberg. IEEE Conference on Automation Science and Engineering (CASE), Xi'an, China, August 2017. Best Student Paper Award Finalist. 
 [\[PDF\]](https://berkeleyautomation.github.io/teleop/documents/DY-Teleop-CASE-2017_final.pdf)
 [\[Project Website\]](https://berkeleyautomation.github.io/teleop/)
