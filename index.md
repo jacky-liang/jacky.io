@@ -8,7 +8,7 @@ layout: default
 Jacky Liang, Jeffrey Mahler, Michael Laskey, Pusong Li, Ken Goldberg. IEEE Conference on Automation Science and Engineering (CASE), Xi'an, China, August 2017. Best Student Paper Award Finalist. 
 [\[PDF\]](https://berkeleyautomation.github.io/teleop/documents/DY-Teleop-CASE-2017_final.pdf)
 [\[Project Website\]](https://berkeleyautomation.github.io/teleop/)
-<img class="pub-img" src="{{ site.baseurl }}assets/imgs/dy-teleop_web.jpg">
+<img class="pub-img" src="{{ site.baseurl }}assets/imgs/dy-teleop_web.jpg"> 
 
 ### _Dex-Net 2.0: Deep Learning to Plan Robust Grasps with Synthetic Point Clouds and Analytic Grasp Metrics._
 Jeffrey Mahler, Jacky Liang, Sherdil Niyaz, Michael Laskey, Richard Doan, Xinyu Liu, Juan Aparicio Ojea, Ken Goldberg. Robotics: Science and Systems (RSS). MIT Cambridge, MA. July 2017.
