@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Publications
+# Research
 
 ### _Using dVRK Teleoperation to Facilitate Deep Learning of Automation Tasks for an Industrial Robot._ 
 Jacky Liang, Jeffrey Mahler, Michael Laskey, Pusong Li, Ken Goldberg. IEEE Conference on Automation Science and Engineering (CASE), Xi'an, China, August 2017. Best Student Paper Award Finalist. 
@@ -28,5 +28,7 @@ Spring 2017 Discussion Teaching Assistant
 Fall 2016, 2017 Discussion Teaching Assistant
 
 # Education
+
+### Carnegie Mellon University _Robotics Institute_, PhD Student
 
 ### University of California Berkeley _Electrical Engineering and Computer Science_, Bachelor of Science, Class of 2018
