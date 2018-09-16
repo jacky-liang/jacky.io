@@ -2,10 +2,19 @@
 layout: default
 ---
 
+## Hello!
+
+I'm a first year PhD student at Carnegie Mellon University's [Robotics Institute](https://www.ri.cmu.edu/), and I'm co-advised by [Prof. Oliver Kroemer](https://www.ri.cmu.edu/ri-faculty/oliver-kroemer/) and [Prof. Maxim Likhachev](http://www.cs.cmu.edu/~maxim/). 
+
+My resesarch interest lies in enabling robots to perform complex tasks in semi-structured environments by combining methods in model-based planning and model-free learning, leveraging both the performance guarantees of plans and the robustness to uncertainty of learned policies.
+
+Before joining RI I interned at NVIDIA for the [Isaac project](https://www.nvidia.com/en-us/deep-learning-ai/industries/robotics/) and worked on using GPU-accelerated physics simulations for robot learning.
+Before that and during my time at UC Berkeley I did research in robot grasping and manipulation with [Prof. Ken Goldberg](http://goldberg.berkeley.edu/).
+
 # Research
 
 ### _Using dVRK Teleoperation to Facilitate Deep Learning of Automation Tasks for an Industrial Robot._ 
-**Jacky Liang**, Jeffrey Mahler, Michael Laskey, Pusong Li, Ken Goldberg. IEEE Conference on Automation Science and Engineering (CASE), Xi'an, China, August 2017. Best Student Paper Award Finalist. 
+**Jacky Liang**, Jeffrey Mahler, Michael Laskey, Pusong Li, Ken Goldberg. IEEE Conference on Automation Science and Engineering (CASE), Xi'an, China, August 2017. Finalist, Best Student Paper Award. 
 [\[PDF\]](https://berkeleyautomation.github.io/teleop/documents/DY-Teleop-CASE-2017_final.pdf)
 [\[Website\]](https://berkeleyautomation.github.io/teleop/)
 <img class="pub-img" src="{{ site.baseurl }}assets/imgs/dy-teleop_web.jpg"> 
