@@ -22,4 +22,4 @@ def f():
 ```
 
 Image:
-<img class="pub-img" src="{{ site.baseurl }}assets/imgs/dy-teleop_web.jpg"> 
+<img class="pub-img" src="/assets/imgs/dy-teleop_web.jpg"> 
