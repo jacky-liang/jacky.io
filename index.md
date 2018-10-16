@@ -15,6 +15,13 @@ Before that and during my time at UC Berkeley I did research in robot grasping a
 
 ## Research
 
+#### GPU-Accelerated Robotic Simulation for Distributed Reinforcement Learning
+**Jacky Liang**\*, Viktor Makoviychuk\*, Ankur Handa\*, Nuttapong Chentanez, Miles Macklin, Dieter Fox. Conference on Robot Learning (CoRL), Zurich, Switzerland, October 2018. To Appear.
+[\[arXiv\]](https://arxiv.org/abs/1810.05762)
+[\[PDF\]](https://arxiv.org/pdf/1810.05762.pdf)
+[\[Website\]](https://sites.google.com/view/accelerated-gpu-simulation/home)
+<img class="pub-img" src="{{ site.baseurl }}assets/imgs/gpu-rl.png"> 
+
 #### Using dVRK Teleoperation to Facilitate Deep Learning of Automation Tasks for an Industrial Robot
 **Jacky Liang**, Jeffrey Mahler, Michael Laskey, Pusong Li, Ken Goldberg. IEEE Conference on Automation Science and Engineering (CASE), Xi'an, China, August 2017. Finalist, Best Student Paper Award. 
 [\[PDF\]](https://berkeleyautomation.github.io/teleop/documents/DY-Teleop-CASE-2017_final.pdf)
@@ -32,6 +39,7 @@ Menglong Guo, David V. Gealy, **Jacky Liang**, Jeffrey Mahler, Aimee Goncalves, 
 [\[PDF\]](http://goldberg.berkeley.edu/pubs/gripper-tip-surface-design-icra-2017-camera-ready.pdf)
 <img class="pub-img" src="{{ site.baseurl }}assets/imgs/gripper-tips.png">
 
+<small>\* Equal Contribution.</small>
 <hr>
 
 ## Teaching
