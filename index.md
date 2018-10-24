@@ -16,7 +16,7 @@ Before that and during my time at UC Berkeley I did research in robot grasping a
 ## Research
 
 #### GPU-Accelerated Robotic Simulation for Distributed Reinforcement Learning
-**Jacky Liang**\*, Viktor Makoviychuk\*, Ankur Handa\*, Nuttapong Chentanez, Miles Macklin, Dieter Fox. Conference on Robot Learning (CoRL), Zurich, Switzerland, October 2018. To Appear.
+**Jacky Liang**\*, Viktor Makoviychuk\*, Ankur Handa\*, Nuttapong Chentanez, Miles Macklin, Dieter Fox. Conference on Robot Learning (CoRL), Zurich, Switzerland, October 2018.
 [\[arXiv\]](https://arxiv.org/abs/1810.05762)
 [\[PDF\]](https://arxiv.org/pdf/1810.05762.pdf)
 [\[Website\]](https://sites.google.com/view/accelerated-gpu-simulation/home)
