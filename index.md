@@ -13,6 +13,14 @@ Before that and during my time at UC Berkeley I did research in robot grasping a
 
 <hr>
 
+## Updates
+*2/4/2019* - Check out this in-depth article I've co-written on the impact of AI and automation on jobs! We've done a thorough review on recent studies and tried to give a balanced take on the subject:
+
+[Job loss due to AI - How bad is it going to be?](https://www.skynettoday.com/editorials/ai-automation-job-loss)
+[<img class="pub-img" src="https://www.skynettoday.com/content/editorials/images/ai-automation-job-loss/main.png">](https://www.skynettoday.com/editorials/ai-automation-job-loss)
+
+<hr>
+
 ## Research
 
 #### GPU-Accelerated Robotic Simulation for Distributed Reinforcement Learning
