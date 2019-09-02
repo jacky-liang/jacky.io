@@ -25,6 +25,11 @@ I write for and co-run [Skynet Today](https://www.skynettoday.com), a website de
 
 ## Research
 
+#### Towards Precise Robotic Grasping by Probabilistic Post-grasp Displacement Estimation
+Jialiang Zhao, **Jacky Liang**, Oliver Kroemer. Field and Service Robotics (FSR), Tokyo, Japan, August 2019.
+[\[Paper\]](https://www.ri.cmu.edu/publications/towards-precise-robotic-grasping-by-probabilistic-post-grasp-displacement-estimation/)
+<img class="pub-img" src="{{ site.baseurl }}assets/imgs/fsr_nn.png"> 
+
 #### GPU-Accelerated Robotic Simulation for Distributed Reinforcement Learning
 **Jacky Liang**\*, Viktor Makoviychuk\*, Ankur Handa\*, Nuttapong Chentanez, Miles Macklin, Dieter Fox. Conference on Robot Learning (CoRL), Zurich, Switzerland, October 2018.
 [\[arXiv\]](https://arxiv.org/abs/1810.05762)
