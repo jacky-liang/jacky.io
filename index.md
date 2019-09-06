@@ -27,6 +27,7 @@ I write for and co-run [Skynet Today](https://www.skynettoday.com), a website de
 
 #### Towards Precise Robotic Grasping by Probabilistic Post-grasp Displacement Estimation
 Jialiang Zhao, **Jacky Liang**, Oliver Kroemer. Field and Service Robotics (FSR), Tokyo, Japan, August 2019.
+[\[arXiv\]](https://arxiv.org/abs/1909.02129)
 [\[Paper\]](https://www.ri.cmu.edu/publications/towards-precise-robotic-grasping-by-probabilistic-post-grasp-displacement-estimation/)
 <img class="pub-img" src="{{ site.baseurl }}assets/imgs/fsr_nn.png"> 
 
