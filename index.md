@@ -30,6 +30,17 @@ I write for and co-run [Skynet Today](https://www.skynettoday.com), a website de
 
 ## Research
 
+### Preprints
+
+#### DexPilot: Vision Based Teleoperation of Dexterous Robotic Hand-Arm System
+Ankur Handa, Karl Van Wyk, Wei Yang, **Jacky Liang**, Yu-Wei Chao, Qian Wan, Stan Birchfield, Nathan Ratliff, Dieter Fox. October 2019.
+[\[arXiv\]](https://arxiv.org/abs/1910.03135)
+[\[PDF\]](https://github.com/ankurhanda/dexpilot/blob/master/dexpilot_main.pdf)
+[\[Website\]](https://sites.google.com/view/dex-pilot)
+<img class="pub-img" src="{{ site.baseurl }}assets/imgs/dexpilot.png"> 
+
+### Publications
+
 #### Towards Precise Robotic Grasping by Probabilistic Post-grasp Displacement Estimation
 Jialiang Zhao, **Jacky Liang**, Oliver Kroemer. Field and Service Robotics (FSR), Tokyo, Japan, August 2019.
 [\[arXiv\]](https://arxiv.org/abs/1909.02129)
