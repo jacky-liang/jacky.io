@@ -37,7 +37,7 @@ Ankur Handa, Karl Van Wyk, Wei Yang, **Jacky Liang**, Yu-Wei Chao, Qian Wan, Sta
 [\[arXiv\]](https://arxiv.org/abs/1910.03135)
 [\[PDF\]](https://github.com/ankurhanda/dexpilot/blob/master/dexpilot_main.pdf)
 [\[Website\]](https://sites.google.com/view/dex-pilot)
-<img class="pub-img" src="{{ site.baseurl }}assets/imgs/dexpilot.png"> 
+[<img class="pub-img" src="{{ site.baseurl }}assets/imgs/dexpilot.png">](https://sites.google.com/view/dex-pilot)
 
 ### Publications
 
