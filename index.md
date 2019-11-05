@@ -41,6 +41,11 @@ Ankur Handa, Karl Van Wyk, Wei Yang, **Jacky Liang**, Yu-Wei Chao, Qian Wan, Sta
 
 ### Publications
 
+#### Homography-Based Deep Visual Servoing Methods for Planar Grasps
+Austin S. Wang, Wuming Zhang, Daniel Troniak, **Jacky Liang**, Oliver Kroemer.  International Conference on Intelligent Robots and Systems (IROS), Macau, China, November 2019.
+[\[Paper\]](https://www.ri.cmu.edu/publications/homography-based-deep-visual-servoing-methods-for-planar-grasps/)
+[<img class="pub-img" src="{{ site.baseurl }}assets/imgs/efort.png">](https://www.ri.cmu.edu/publications/homography-based-deep-visual-servoing-methods-for-planar-grasps/)
+
 #### Towards Precise Robotic Grasping by Probabilistic Post-grasp Displacement Estimation
 Jialiang Zhao, **Jacky Liang**, Oliver Kroemer. Field and Service Robotics (FSR), Tokyo, Japan, August 2019.
 [\[arXiv\]](https://arxiv.org/abs/1909.02129)
