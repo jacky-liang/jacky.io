@@ -93,3 +93,14 @@ Fall 2016, 2017 Discussion Teaching Assistant
 #### Carnegie Mellon University. _Robotics Institute_. PhD Student
 
 #### University of California Berkeley. _Electrical Engineering and Computer Science_. Bachelor of Science, Class of 2018
+
+<hr>
+
+## Assorted Links
+
+* [Monte Carlo Gradient Estimation in Machine Learning](https://arxiv.org/abs/1906.10652)
+* [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
+* [Policy Search in Continuous Action Domains: an Overview](https://arxiv.org/abs/1803.04706)
+* [A Visual Guide to Evolution Strategies](http://blog.otoro.net/2017/10/29/visual-evolution-strategies/)
+* [Lie Groups for 2D and 3D Transformations](http://ethaneade.com/lie.pdf)
+* [Common Academic Experiences No One Talks About: Repeated Rejection, Impostor Syndrome, and Burnout](http://www.bertramgawronski.com/documents/JAGRSTMMRV_PPS.pdf)
