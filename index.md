@@ -16,6 +16,7 @@ I write for and co-run [Skynet Today](https://www.skynettoday.com), a website de
 <hr>
 
 ## Updates
+
 *10/22/2019* - Our article covering the contributions of and the responses to OpenAI's in-hand Rubik's cube manipulation work. 
 
 [OpenAI's dexterous robotic hand — separating progress from PR](https://www.skynettoday.com/briefs/openai-rubiks-cube)
@@ -30,49 +31,67 @@ I write for and co-run [Skynet Today](https://www.skynettoday.com), a website de
 
 ## Research
 
-### Preprints
+#### In-Hand Object Pose Tracking via Contact Feedback and GPU-Accelerated Robotic Simulation
+**Jacky Liang**, Ankur Handa, Karl Van Wyk, Viktor Makoviychuk, Oliver Kroemer, Dieter Fox.
+International Conference on Robotics and Automation (ICRA).
+Paris, France, May 2020.
+[\[arXiv\]](https://arxiv.org/abs/2002.12160)
+[\[PDF\]](https://arxiv.org/pdf/2002.12160.pdf)
+[<img class="pub-img" src="{{ site.baseurl }}assets/imgs/pose_flat.png">](https://arxiv.org/abs/2002.12160)
 
 #### DexPilot: Vision Based Teleoperation of Dexterous Robotic Hand-Arm System
-Ankur Handa, Karl Van Wyk, Wei Yang, **Jacky Liang**, Yu-Wei Chao, Qian Wan, Stan Birchfield, Nathan Ratliff, Dieter Fox. October 2019.
+Ankur Handa, Karl Van Wyk, Wei Yang, **Jacky Liang**, Yu-Wei Chao, Qian Wan, Stan Birchfield, Nathan Ratliff, Dieter Fox.
+International Conference on Robotics and Automation (ICRA). 
+Paris, France, May 2020.
 [\[arXiv\]](https://arxiv.org/abs/1910.03135)
 [\[PDF\]](https://github.com/ankurhanda/dexpilot/blob/master/dexpilot_main.pdf)
 [\[Website\]](https://sites.google.com/view/dex-pilot)
 [<img class="pub-img" src="{{ site.baseurl }}assets/imgs/dexpilot.png">](https://sites.google.com/view/dex-pilot)
 
-### Publications
-
 #### Homography-Based Deep Visual Servoing Methods for Planar Grasps
-Austin S. Wang, Wuming Zhang, Daniel Troniak, **Jacky Liang**, Oliver Kroemer.  International Conference on Intelligent Robots and Systems (IROS), Macau, China, November 2019.
+Austin S. Wang, Wuming Zhang, Daniel Troniak, **Jacky Liang**, Oliver Kroemer.
+International Conference on Intelligent Robots and Systems (IROS).
+Macau, China, November 2019.
 [\[Paper\]](https://www.ri.cmu.edu/publications/homography-based-deep-visual-servoing-methods-for-planar-grasps/)
 [<img class="pub-img" src="{{ site.baseurl }}assets/imgs/efort.png">](https://www.ri.cmu.edu/publications/homography-based-deep-visual-servoing-methods-for-planar-grasps/)
 
 #### Towards Precise Robotic Grasping by Probabilistic Post-grasp Displacement Estimation
-Jialiang Zhao, **Jacky Liang**, Oliver Kroemer. Field and Service Robotics (FSR), Tokyo, Japan, August 2019.
+Jialiang Zhao, **Jacky Liang**, Oliver Kroemer. 
+Field and Service Robotics (FSR).
+Tokyo, Japan, August 2019.
 [\[arXiv\]](https://arxiv.org/abs/1909.02129)
 [\[Paper\]](https://www.ri.cmu.edu/publications/towards-precise-robotic-grasping-by-probabilistic-post-grasp-displacement-estimation/)
 [<img class="pub-img" src="{{ site.baseurl }}assets/imgs/fsr_nn.png">](https://www.ri.cmu.edu/publications/towards-precise-robotic-grasping-by-probabilistic-post-grasp-displacement-estimation/)
 
 #### GPU-Accelerated Robotic Simulation for Distributed Reinforcement Learning
-**Jacky Liang**\*, Viktor Makoviychuk\*, Ankur Handa\*, Nuttapong Chentanez, Miles Macklin, Dieter Fox. Conference on Robot Learning (CoRL), Zurich, Switzerland, October 2018.
+**Jacky Liang**\*, Viktor Makoviychuk\*, Ankur Handa\*, Nuttapong Chentanez, Miles Macklin, Dieter Fox. 
+Conference on Robot Learning (CoRL).
+Zurich, Switzerland, October 2018.
 [\[arXiv\]](https://arxiv.org/abs/1810.05762)
 [\[PDF\]](https://arxiv.org/pdf/1810.05762.pdf)
 [\[Website\]](https://sites.google.com/view/accelerated-gpu-simulation/home)
 [<img class="pub-img" src="{{ site.baseurl }}assets/imgs/gpu-rl.png"> ](https://sites.google.com/view/accelerated-gpu-simulation/home)
 
 #### Using dVRK Teleoperation to Facilitate Deep Learning of Automation Tasks for an Industrial Robot
-**Jacky Liang**, Jeffrey Mahler, Michael Laskey, Pusong Li, Ken Goldberg. IEEE Conference on Automation Science and Engineering (CASE), Xi'an, China, August 2017. Finalist, Best Student Paper Award. 
+**Jacky Liang**, Jeffrey Mahler, Michael Laskey, Pusong Li, Ken Goldberg. 
+Conference on Automation Science and Engineering (CASE).
+Xi'an, China, August 2017. 
+Finalist, Best Student Paper Award. 
 [\[PDF\]](https://berkeleyautomation.github.io/teleop/documents/DY-Teleop-CASE-2017_final.pdf)
 [\[Website\]](https://berkeleyautomation.github.io/teleop/)
 [<img class="pub-img" src="{{ site.baseurl }}assets/imgs/dy-teleop_web.jpg">](https://berkeleyautomation.github.io/teleop/)
 
 #### Dex-Net 2.0: Deep Learning to Plan Robust Grasps with Synthetic Point Clouds and Analytic Grasp Metrics
-Jeffrey Mahler, **Jacky Liang**, Sherdil Niyaz, Michael Laskey, Richard Doan, Xinyu Liu, Juan Aparicio Ojea, Ken Goldberg. Robotics: Science and Systems (RSS). MIT Cambridge, MA. July 2017.
+Jeffrey Mahler, **Jacky Liang**, Sherdil Niyaz, Michael Laskey, Richard Doan, Xinyu Liu, Juan Aparicio Ojea, Ken Goldberg. Robotics: Science and Systems (RSS). 
+Cambridge, MA. July 2017.
 [\[PDF\]](https://github.com/BerkeleyAutomation/dex-net/raw/gh-pages/docs/dexnet_rss2017_final.pdf)
 [\[Website\]](https://berkeleyautomation.github.io/dex-net/)
 [<img class="pub-img" src="{{ site.baseurl }}assets/imgs/dex-net_web.jpg">](https://berkeleyautomation.github.io/dex-net/)
 
 #### Design of Parallel-Jaw Gripper Tip Surfaces for Robust Grasping
-Menglong Guo, David V. Gealy, **Jacky Liang**, Jeffrey Mahler, Aimee Goncalves, Stephen McKinley, Ken Goldberg. 2017 IEEE International Conference on Robotics and Automation (ICRA). May 2017.
+Menglong Guo, David V. Gealy, **Jacky Liang**, Jeffrey Mahler, Aimee Goncalves, Stephen McKinley, Ken Goldberg. 
+International Conference on Robotics and Automation (ICRA). 
+Singapore, May 2017.
 [\[PDF\]](http://goldberg.berkeley.edu/pubs/gripper-tip-surface-design-icra-2017-camera-ready.pdf)
 [<img class="pub-img" src="{{ site.baseurl }}assets/imgs/gripper-tips.png">](http://goldberg.berkeley.edu/pubs/gripper-tip-surface-design-icra-2017-camera-ready.pdf)
 
