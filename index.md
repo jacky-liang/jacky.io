@@ -100,6 +100,8 @@ Singapore, May 2017.
 
 ## Teaching
 
+#### 16-662 Robot Autonomy
+Spring 2020 Teaching Assistant
 #### CS188 Introduction to Artificial Intelligence
 Spring 2017 Discussion Teaching Assistant
 #### EE16A Design of Information Devices and Systems
