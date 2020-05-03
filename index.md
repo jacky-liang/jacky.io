@@ -13,7 +13,7 @@ Before that and during my time at UC Berkeley I did research in robot grasping a
 
 In my spare time I write for and co-run [Skynet Today](https://www.skynettoday.com), a website dedicated to covering AI news and trends without hype. 
 Check us out and [subscribe](https://www.skynettoday.com/subscribe) if you like what you see :)
-I also enjoy improvising on the piano - some pieces you can find on my [SoundCloud](https://soundcloud.com/rocket-flumes).
+I also enjoy improvising on the piano - some pieces you can find on my [SoundCloud](https://soundcloud.com/rocket-flumes/sets/improvs-and-provs).
 
 <hr>
 
