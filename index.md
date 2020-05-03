@@ -13,7 +13,7 @@ Before that and during my time at UC Berkeley I did research in robot grasping a
 
 In my spare time I write for and co-run [Skynet Today](https://www.skynettoday.com), a website dedicated to covering AI news and trends without hype. 
 Check us out and [subscribe](https://www.skynettoday.com/subscribe) if you like what you see :)
-I also enjoy improvising on the piano - some pieces you can find on my [SoundCloud](https://soundcloud.com/rocket-flumes/sets/improvs-and-provs).
+I also enjoy playing and improvising on the piano - you can find some of my pieces on [SoundCloud](#soundcloud).
 
 <hr>
 
@@ -140,3 +140,7 @@ Fall 2016, 2017 Discussion Teaching Assistant
 * [A Visual Guide to Evolution Strategies](http://blog.otoro.net/2017/10/29/visual-evolution-strategies/)
 * [Lie Groups for 2D and 3D Transformations](http://ethaneade.com/lie.pdf)
 * [Common Academic Experiences No One Talks About: Repeated Rejection, Impostor Syndrome, and Burnout](http://www.bertramgawronski.com/documents/JAGRSTMMRV_PPS.pdf)
+
+## Piano Improvs
+<a name="soundcloud"></a>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/430771703&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/rocket-flumes" title="RocketFlumes" target="_blank" style="color: #cccccc; text-decoration: none;">RocketFlumes</a> · <a href="https://soundcloud.com/rocket-flumes/sets/improvs-and-provs" title="Improvs and Provs" target="_blank" style="color: #cccccc; text-decoration: none;">Improvs and Provs</a></div>
