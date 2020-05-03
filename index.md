@@ -11,7 +11,9 @@ My research interest lies in enabling robots to perform complex tasks in semi-st
 Before joining RI I interned at NVIDIA for the [Isaac project](https://www.nvidia.com/en-us/deep-learning-ai/industries/robotics/) and worked on using GPU-accelerated physics simulations for robot learning.
 Before that and during my time at UC Berkeley I did research in robot grasping and manipulation with [Prof. Ken Goldberg](http://goldberg.berkeley.edu/).
 
-I write for and co-run [Skynet Today](https://www.skynettoday.com), a website dedicated to covering AI news and trends without hype. Check us out and [subscribe](https://www.skynettoday.com/subscribe) if you like what you see :)
+In my spare time I write for and co-run [Skynet Today](https://www.skynettoday.com), a website dedicated to covering AI news and trends without hype. 
+Check us out and [subscribe](https://www.skynettoday.com/subscribe) if you like what you see :)
+I also enjoy improvising on the piano - some pieces you can find on my [SoundCloud](https://soundcloud.com/rocket-flumes).
 
 <hr>
 
@@ -95,6 +97,12 @@ Singapore, May 2017.
 [\[PDF\]](http://goldberg.berkeley.edu/pubs/gripper-tip-surface-design-icra-2017-camera-ready.pdf)
 [<img class="pub-img" src="{{ site.baseurl }}assets/imgs/gripper-tips.png">](http://goldberg.berkeley.edu/pubs/gripper-tip-surface-design-icra-2017-camera-ready.pdf)
 
+#### Undergraduate-Led Survey Class to Improve CS Education for New Students
+Nathan Zhang\*, Jacky Liang\*, Amanda Tomlinson\*, Frank Boensch, Anant Sahai.
+SIGCSE '20: Proceedings of the 51st ACM Technical Symposium on Computer Science Education.
+February 2020. 
+[\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3328778.3366897)
+
 <small>\* Equal Contribution.</small>
 <hr>
 
@@ -117,10 +125,15 @@ Fall 2016, 2017 Discussion Teaching Assistant
 
 <hr>
 
+## Useful Tools
+
+* [Symbolic Matrix Differentiation](http://www.matrixcalculus.org/matrixCalculus)
+* [Pytorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning)
+* [Hydra Configs](https://hydra.cc/)
+
 ## Assorted Links
 
 * [A Review of Robot Learning for Manipulation: Challenges, Representations, and Algorithms](https://arxiv.org/abs/1907.03146)
-* [Symbolic Matrix Differentiation Tool](http://www.matrixcalculus.org/matrixCalculus)
 * [Monte Carlo Gradient Estimation in Machine Learning](https://arxiv.org/abs/1906.10652)
 * [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
 * [Policy Search in Continuous Action Domains: an Overview](https://arxiv.org/abs/1803.04706)
