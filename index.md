@@ -39,6 +39,7 @@ International Conference on Robotics and Automation (ICRA).
 Paris, France, May 2020.
 [\[arXiv\]](https://arxiv.org/abs/2002.12160)
 [\[PDF\]](https://arxiv.org/pdf/2002.12160.pdf)
+[\[Website\]](https://sites.google.com/view/in-hand-object-pose-tracking/)
 [<img class="pub-img" src="{{ site.baseurl }}assets/imgs/pose_flat.png">](https://arxiv.org/abs/2002.12160)
 
 #### DexPilot: Vision Based Teleoperation of Dexterous Robotic Hand-Arm System
