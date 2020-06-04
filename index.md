@@ -33,10 +33,19 @@ I also enjoy playing and improvising on the piano - you can find some of my piec
 
 ## Research
 
+#### Learning Active Task-Oriented Exploration Policies for Bridging the Sim-to-Real Gap
+**Jacky Liang**, Saumya Saxena, Oliver Kroemer
+Robotics: Science and Systems (RSS).
+July 2020.
+[\[arXiv\]](https://arxiv.org/abs/2006.01952)
+[\[PDF\]](https://arxiv.org/pdf/2006.01952.pdf)
+[\[Website\]](https://sites.google.com/view/task-oriented-exploration/)
+[<img class="pub-img" src="{{ site.baseurl }}assets/imgs/active_explore.png">](https://arxiv.org/abs/2006.01952)
+
 #### In-Hand Object Pose Tracking via Contact Feedback and GPU-Accelerated Robotic Simulation
 **Jacky Liang**, Ankur Handa, Karl Van Wyk, Viktor Makoviychuk, Oliver Kroemer, Dieter Fox.
 International Conference on Robotics and Automation (ICRA).
-Paris, France, May 2020.
+May 2020.
 [\[arXiv\]](https://arxiv.org/abs/2002.12160)
 [\[PDF\]](https://arxiv.org/pdf/2002.12160.pdf)
 [\[Website\]](https://sites.google.com/view/in-hand-object-pose-tracking/)
