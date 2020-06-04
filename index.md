@@ -34,7 +34,7 @@ I also enjoy playing and improvising on the piano - you can find some of my piec
 ## Research
 
 #### Learning Active Task-Oriented Exploration Policies for Bridging the Sim-to-Real Gap
-**Jacky Liang**, Saumya Saxena, Oliver Kroemer
+**Jacky Liang**, Saumya Saxena, Oliver Kroemer.
 Robotics: Science and Systems (RSS).
 July 2020.
 [\[arXiv\]](https://arxiv.org/abs/2006.01952)
