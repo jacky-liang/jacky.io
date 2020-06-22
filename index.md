@@ -19,7 +19,12 @@ I also enjoy playing and improvising on the piano - you can find some of my piec
 
 ## Updates
 
-*10/22/2019* - Our article covering the contributions of and the responses to OpenAI's in-hand Rubik's cube manipulation work. 
+*6/22/2020* - Check out our brief on the recent developments over the use of face recognition technology by law enforcement:
+
+[IBM, Microsoft, and Amazon Halt Sales of Facial Recognition to Police, Call for Regulations](https://www.skynettoday.com/briefs/face-recog-police)
+[<img class="pub-img" src="{{ site.baseurl }}assets/imgs/face-recog.jpg">](https://www.skynettoday.com/briefs/face-recog-police)
+
+*10/22/2019* - Our article covering the contributions of and the responses to OpenAI's in-hand Rubik's cube manipulation work:
 
 [OpenAI's dexterous robotic hand — separating progress from PR](https://www.skynettoday.com/briefs/openai-rubiks-cube)
 [<img class="pub-img" src="{{ site.baseurl }}assets/imgs/dr.png">](https://www.skynettoday.com/briefs/openai-rubiks-cube)
