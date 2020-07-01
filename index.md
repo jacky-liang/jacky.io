@@ -45,7 +45,7 @@ July 2020.
 [\[arXiv\]](https://arxiv.org/abs/2006.01952)
 [\[PDF\]](https://arxiv.org/pdf/2006.01952.pdf)
 [\[Website\]](https://sites.google.com/view/task-oriented-exploration/)
-[<img class="pub-img" src="{{ site.baseurl }}assets/imgs/active_explore.png">](https://arxiv.org/abs/2006.01952)
+[<img class="pub-img" src="{{ site.baseurl }}assets/imgs/active_explore.png">](https://sites.google.com/view/task-oriented-exploration/)
 
 #### In-Hand Object Pose Tracking via Contact Feedback and GPU-Accelerated Robotic Simulation
 **Jacky Liang**, Ankur Handa, Karl Van Wyk, Viktor Makoviychuk, Oliver Kroemer, Dieter Fox.
@@ -54,7 +54,7 @@ May 2020.
 [\[arXiv\]](https://arxiv.org/abs/2002.12160)
 [\[PDF\]](https://arxiv.org/pdf/2002.12160.pdf)
 [\[Website\]](https://sites.google.com/view/in-hand-object-pose-tracking/)
-[<img class="pub-img" src="{{ site.baseurl }}assets/imgs/pose_flat.png">](https://arxiv.org/abs/2002.12160)
+[<img class="pub-img" src="{{ site.baseurl }}assets/imgs/pose_flat.png">](https://sites.google.com/view/in-hand-object-pose-tracking/)
 
 #### DexPilot: Vision Based Teleoperation of Dexterous Robotic Hand-Arm System
 Ankur Handa, Karl Van Wyk, Wei Yang, **Jacky Liang**, Yu-Wei Chao, Qian Wan, Stan Birchfield, Nathan Ratliff, Dieter Fox.
