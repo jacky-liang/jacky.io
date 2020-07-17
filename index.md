@@ -113,7 +113,7 @@ Singapore, May 2017.
 [<img class="pub-img" src="{{ site.baseurl }}assets/imgs/gripper-tips.png">](http://goldberg.berkeley.edu/pubs/gripper-tip-surface-design-icra-2017-camera-ready.pdf)
 
 #### Undergraduate-Led Survey Class to Improve CS Education for New Students
-Nathan Zhang\*, Jacky Liang\*, Amanda Tomlinson\*, Frank Boensch, Anant Sahai.
+Nathan Zhang\*, **Jacky Liang**\*, Amanda Tomlinson\*, Frank Boensch, Anant Sahai.
 SIGCSE '20: Proceedings of the 51st ACM Technical Symposium on Computer Science Education.
 February 2020. 
 [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3328778.3366897)
