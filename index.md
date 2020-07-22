@@ -19,6 +19,8 @@ I also enjoy playing and improvising on the piano - you can find some of my piec
 
 ## Updates
 
+*7/22/2020* - Started a [personal blog](/blog)!
+
 *6/22/2020* - Check out our brief on the recent developments over the use of face recognition technology by law enforcement:
 
 [IBM, Microsoft, and Amazon Halt Sales of Facial Recognition to Police, Call for Regulations](https://www.skynettoday.com/briefs/face-recog-police)

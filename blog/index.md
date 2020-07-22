@@ -2,10 +2,7 @@
 layout: blog
 ---
 
-# [Test Blog Post](./2018-10-05-Test-Blog-Post)
-### | October 5th, 2018
-Template Post
+# [How (not) to Fall Asleep](./2020-07-22-sleep)
+July 22nd, 2022
 
-# [Test Blog Post](./2018-10-05-Test-Blog-Post)
-### | October 5th, 2018
-Template Post
+Here's a list and review of 20 things I've tried to help me fall asleep - some worked better than others. May be useful for those who also have trouble sleeping.

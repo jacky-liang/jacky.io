@@ -1,3 +1,11 @@
+body.blog{
+    font-size: 18px;
+}
+
+body.blog h2 {
+    margin-top: 40px;
+}
+
 .blog-header {
     margin: 10px 0px 10px 0px;
 }
@@ -56,7 +64,6 @@ footer.blog .credit {
     float: left;
     color: #797979;
 }
-
 
 .blog-post-list p {
     clear: both;
