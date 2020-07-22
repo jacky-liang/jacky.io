@@ -29,8 +29,8 @@ body.blog h2 {
     width: 100%;
 }
 
-.blog-content {
-    clear: both;
+.blog-content h1 {
+    margin-bottom: 10px;
 }
 
 footer.blog {
@@ -53,9 +53,7 @@ footer.blog .credit {
 }
 
 .blog-post-list h1 {
-    margin-bottom: 9px;
-    margin-right: 5px;
-    float: left;
+    margin-bottom: 10px;
 }
 
 .blog-post-list h3 {
