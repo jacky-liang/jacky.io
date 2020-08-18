@@ -61,7 +61,7 @@ May 2020.
 #### DexPilot: Vision Based Teleoperation of Dexterous Robotic Hand-Arm System
 Ankur Handa, Karl Van Wyk, Wei Yang, **Jacky Liang**, Yu-Wei Chao, Qian Wan, Stan Birchfield, Nathan Ratliff, Dieter Fox.
 International Conference on Robotics and Automation (ICRA). 
-Paris, France, May 2020.
+May 2020.
 [\[arXiv\]](https://arxiv.org/abs/1910.03135)
 [\[PDF\]](https://github.com/ankurhanda/dexpilot/blob/master/dexpilot_main.pdf)
 [\[Website\]](https://sites.google.com/view/dex-pilot)
