@@ -6,7 +6,7 @@ layout: default
 
 I'm a second year PhD student at Carnegie Mellon University's [Robotics Institute](https://www.ri.cmu.edu/), and I'm co-advised by [Prof. Oliver Kroemer](https://www.ri.cmu.edu/ri-faculty/oliver-kroemer/) and [Prof. Maxim Likhachev](http://www.cs.cmu.edu/~maxim/). 
 
-My research interest lies in enabling robots to perform complex tasks in semi-structured environments by combining methods in model-based planning and model-free learning, leveraging both the performance guarantees of plans and the robustness to uncertainty of learned policies.
+My research interest lies in enabling robots to perform complex tasks in semi-structured environments by combining methods in model-based planning and model-free learning, closing the sim-to-real gap with active exploration, and improving the robustness of learned policies with informed priors.
 
 Before joining RI I interned at NVIDIA for the [Isaac project](https://www.nvidia.com/en-us/deep-learning-ai/industries/robotics/) and worked on using GPU-accelerated physics simulations for robot learning.
 Before that and during my time at UC Berkeley I did research in robot grasping and manipulation with [Prof. Ken Goldberg](http://goldberg.berkeley.edu/).
