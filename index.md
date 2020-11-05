@@ -40,6 +40,8 @@ I also enjoy playing and improvising on the piano - you can find some of my piec
 
 ## Research
 
+### Conference Papers
+
 #### Learning Active Task-Oriented Exploration Policies for Bridging the Sim-to-Real Gap
 **Jacky Liang**, Saumya Saxena, Oliver Kroemer.
 Robotics: Science and Systems (RSS).
@@ -119,6 +121,15 @@ Nathan Zhang\*, **Jacky Liang**\*, Amanda Tomlinson\*, Frank Boensch, Anant Saha
 SIGCSE '20: Proceedings of the 51st ACM Technical Symposium on Computer Science Education.
 February 2020. 
 [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3328778.3366897)
+
+### Technical Reports
+
+#### A Modular Robotic Arm Control Stack for Research: Franka-Interface and FrankaPy
+Kevin Zhang\*, Mohit Sharma\*, **Jacky Liang**\*, Oliver Kroemer.
+November 2020.
+[\[arXiv\]](https://arxiv.org/abs/2011.02398)
+[\[PDF\]](https://arxiv.org/pdf/2011.02398.pdf)
+[<img class="pub-img" src="{{ site.baseurl }}assets/imgs/RobotInterfaceFlipped.png">](https://arxiv.org/abs/2011.02398)
 
 <small>\* Equal Contribution.</small>
 <hr>
