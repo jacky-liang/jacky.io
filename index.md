@@ -40,6 +40,16 @@ I also enjoy playing and improvising on the piano - you can find some of my piec
 
 ## Research
 
+### Preprints
+
+#### Contact Localization for Robot Arms in Motion without Torque Sensing
+**Jacky Liang**, Oliver Kroemer.
+November 2020.
+[\[arXiv\]](https://arxiv.org/abs/2011.03142)
+[\[PDF\]](https://arxiv.org/pdf/2011.03142.pdf)
+[\[Website\]](https://sites.google.com/view/ct-loc/)
+[<img class="pub-img" src="{{ site.baseurl }}assets/imgs/ct_sensing.png">](https://sites.google.com/view/ct-loc/)
+
 ### Conference Papers
 
 #### Learning Active Task-Oriented Exploration Policies for Bridging the Sim-to-Real Gap
