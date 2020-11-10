@@ -52,12 +52,19 @@ November 2020.
 
 ### Conference Papers
 
+#### Learning to Compose Hierarchical Object-Centric Controllers for Robotic Manipulation
+Mohit Sharma\*, **Jacky Liang**\*, Jialiang Zhao, Alex LaGrassa, Oliver Kroemer.
+Conference on Robot Learning (CoRL).
+Novemeber 2020.
+[\[arXiv\]](https://arxiv.org/abs/2011.04627)
+[\[Website\]](https://sites.google.com/view/compositional-object-control/)
+[<img class="pub-img" src="{{ site.baseurl }}assets/imgs/controllers.png">](https://sites.google.com/view/compositional-object-control/)
+
 #### Learning Active Task-Oriented Exploration Policies for Bridging the Sim-to-Real Gap
 **Jacky Liang**, Saumya Saxena, Oliver Kroemer.
 Robotics: Science and Systems (RSS).
 July 2020.
 [\[arXiv\]](https://arxiv.org/abs/2006.01952)
-[\[PDF\]](https://arxiv.org/pdf/2006.01952.pdf)
 [\[Website\]](https://sites.google.com/view/task-oriented-exploration/)
 [<img class="pub-img" src="{{ site.baseurl }}assets/imgs/active_explore.png">](https://sites.google.com/view/task-oriented-exploration/)
 
@@ -66,7 +73,6 @@ July 2020.
 International Conference on Robotics and Automation (ICRA).
 May 2020.
 [\[arXiv\]](https://arxiv.org/abs/2002.12160)
-[\[PDF\]](https://arxiv.org/pdf/2002.12160.pdf)
 [\[Website\]](https://sites.google.com/view/in-hand-object-pose-tracking/)
 [<img class="pub-img" src="{{ site.baseurl }}assets/imgs/pose_flat.png">](https://sites.google.com/view/in-hand-object-pose-tracking/)
 
@@ -75,7 +81,6 @@ Ankur Handa, Karl Van Wyk, Wei Yang, **Jacky Liang**, Yu-Wei Chao, Qian Wan, Sta
 International Conference on Robotics and Automation (ICRA). 
 May 2020.
 [\[arXiv\]](https://arxiv.org/abs/1910.03135)
-[\[PDF\]](https://github.com/ankurhanda/dexpilot/blob/master/dexpilot_main.pdf)
 [\[Website\]](https://sites.google.com/view/dex-pilot)
 [<img class="pub-img" src="{{ site.baseurl }}assets/imgs/dexpilot.png">](https://sites.google.com/view/dex-pilot)
 
@@ -91,7 +96,6 @@ Jialiang Zhao, **Jacky Liang**, Oliver Kroemer.
 Field and Service Robotics (FSR).
 Tokyo, Japan, August 2019.
 [\[arXiv\]](https://arxiv.org/abs/1909.02129)
-[\[Paper\]](https://www.ri.cmu.edu/publications/towards-precise-robotic-grasping-by-probabilistic-post-grasp-displacement-estimation/)
 [<img class="pub-img" src="{{ site.baseurl }}assets/imgs/fsr_nn.png">](https://www.ri.cmu.edu/publications/towards-precise-robotic-grasping-by-probabilistic-post-grasp-displacement-estimation/)
 
 #### GPU-Accelerated Robotic Simulation for Distributed Reinforcement Learning
@@ -99,7 +103,6 @@ Tokyo, Japan, August 2019.
 Conference on Robot Learning (CoRL).
 Zurich, Switzerland, October 2018.
 [\[arXiv\]](https://arxiv.org/abs/1810.05762)
-[\[PDF\]](https://arxiv.org/pdf/1810.05762.pdf)
 [\[Website\]](https://sites.google.com/view/accelerated-gpu-simulation/home)
 [<img class="pub-img" src="{{ site.baseurl }}assets/imgs/gpu-rl.png"> ](https://sites.google.com/view/accelerated-gpu-simulation/home)
 
@@ -138,7 +141,6 @@ February 2020.
 Kevin Zhang\*, Mohit Sharma\*, **Jacky Liang**\*, Oliver Kroemer.
 November 2020.
 [\[arXiv\]](https://arxiv.org/abs/2011.02398)
-[\[PDF\]](https://arxiv.org/pdf/2011.02398.pdf)
 [<img class="pub-img" src="{{ site.baseurl }}assets/imgs/RobotInterfaceFlipped.png">](https://arxiv.org/abs/2011.02398)
 
 <small>\* Equal Contribution.</small>
