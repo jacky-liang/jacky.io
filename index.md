@@ -55,6 +55,7 @@ November 2020.
 Mohit Sharma\*, **Jacky Liang**\*, Jialiang Zhao, Alex LaGrassa, Oliver Kroemer.
 Conference on Robot Learning (CoRL).
 Novemeber 2020.
+Plenary Presentation.
 [\[arXiv\]](https://arxiv.org/abs/2011.04627)
 [\[Website\]](https://sites.google.com/view/compositional-object-control/)
 [<img class="pub-img" src="{{ site.baseurl }}assets/imgs/controllers.png">](https://sites.google.com/view/compositional-object-control/)
