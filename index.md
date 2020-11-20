@@ -179,6 +179,7 @@ Fall 2016, 2017 Discussion Teaching Assistant
 * [Policy Search in Continuous Action Domains: an Overview](https://arxiv.org/abs/1803.04706)
 * [A Visual Guide to Evolution Strategies](http://blog.otoro.net/2017/10/29/visual-evolution-strategies/)
 * [Lie Groups for 2D and 3D Transformations](http://ethaneade.com/lie.pdf)
+* [Optimization inequalities cheatsheet](http://fa.bianp.net/blog/2017/optimization-inequalities-cheatsheet/)
 * [Common Academic Experiences No One Talks About: Repeated Rejection, Impostor Syndrome, and Burnout](https://journals.sagepub.com/doi/abs/10.1177/1745691619898848)
 
 ## Piano Improvs
