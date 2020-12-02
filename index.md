@@ -42,6 +42,13 @@ I also enjoy playing and improvising on the piano - you can find some of my piec
 
 ### Preprints
 
+#### Visual Identification of Articulated Object Parts
+Vicky Zeng, Timothy E. Lee\*, **Jacky Liang**\*, Oliver Kroemer.
+December 2020.
+[\[arXiv\]](https://arxiv.org/abs/2012.00284)
+[\[Website\]](https://sites.google.com/view/articulated-objects/home)
+[<img class="pub-img" src="{{ site.baseurl }}assets/imgs/cloak.png">](https://sites.google.com/view/articulated-objects/home)
+
 #### Contact Localization for Robot Arms in Motion without Torque Sensing
 **Jacky Liang**, Oliver Kroemer.
 November 2020.
