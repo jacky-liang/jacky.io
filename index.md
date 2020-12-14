@@ -45,14 +45,38 @@ I also enjoy playing and improvising on the piano - you can find some of my piec
 
 ## Research
 
+### Preprints
+
+#### Visual Identification of Articulated Object Parts
+Vicky Zeng, Timothy E. Lee\*, **Jacky Liang**\*, Oliver Kroemer.
+December 2020.
+[\[arXiv\]](https://arxiv.org/abs/2012.00284)
+[\[Website\]](https://sites.google.com/view/articulated-objects/home)
+[<img class="pub-img" src="{{ site.baseurl }}assets/imgs/cloak.png">](https://sites.google.com/view/articulated-objects/home)
+
+#### Contact Localization for Robot Arms in Motion without Torque Sensing
+**Jacky Liang**, Oliver Kroemer.
+November 2020.
+[\[arXiv\]](https://arxiv.org/abs/2011.03142)
+[\[Website\]](https://sites.google.com/view/ct-loc/)
+[<img class="pub-img" src="{{ site.baseurl }}assets/imgs/ct_sensing.png">](https://sites.google.com/view/ct-loc/)
+
 ### Conference Papers
+
+#### Learning to Compose Hierarchical Object-Centric Controllers for Robotic Manipulation
+Mohit Sharma\*, **Jacky Liang**\*, Jialiang Zhao, Alex LaGrassa, Oliver Kroemer.
+Conference on Robot Learning (CoRL).
+Novemeber 2020.
+Plenary Presentation.
+[\[arXiv\]](https://arxiv.org/abs/2011.04627)
+[\[Website\]](https://sites.google.com/view/compositional-object-control/)
+[<img class="pub-img" src="{{ site.baseurl }}assets/imgs/controllers.png">](https://sites.google.com/view/compositional-object-control/)
 
 #### Learning Active Task-Oriented Exploration Policies for Bridging the Sim-to-Real Gap
 **Jacky Liang**, Saumya Saxena, Oliver Kroemer.
 Robotics: Science and Systems (RSS).
 July 2020.
 [\[arXiv\]](https://arxiv.org/abs/2006.01952)
-[\[PDF\]](https://arxiv.org/pdf/2006.01952.pdf)
 [\[Website\]](https://sites.google.com/view/task-oriented-exploration/)
 [<img class="pub-img" src="{{ site.baseurl }}assets/imgs/active_explore.png">](https://sites.google.com/view/task-oriented-exploration/)
 
@@ -61,7 +85,6 @@ July 2020.
 International Conference on Robotics and Automation (ICRA).
 May 2020.
 [\[arXiv\]](https://arxiv.org/abs/2002.12160)
-[\[PDF\]](https://arxiv.org/pdf/2002.12160.pdf)
 [\[Website\]](https://sites.google.com/view/in-hand-object-pose-tracking/)
 [<img class="pub-img" src="{{ site.baseurl }}assets/imgs/pose_flat.png">](https://sites.google.com/view/in-hand-object-pose-tracking/)
 
@@ -70,7 +93,6 @@ Ankur Handa, Karl Van Wyk, Wei Yang, **Jacky Liang**, Yu-Wei Chao, Qian Wan, Sta
 International Conference on Robotics and Automation (ICRA). 
 May 2020.
 [\[arXiv\]](https://arxiv.org/abs/1910.03135)
-[\[PDF\]](https://github.com/ankurhanda/dexpilot/blob/master/dexpilot_main.pdf)
 [\[Website\]](https://sites.google.com/view/dex-pilot)
 [<img class="pub-img" src="{{ site.baseurl }}assets/imgs/dexpilot.png">](https://sites.google.com/view/dex-pilot)
 
@@ -86,7 +108,6 @@ Jialiang Zhao, **Jacky Liang**, Oliver Kroemer.
 Field and Service Robotics (FSR).
 Tokyo, Japan, August 2019.
 [\[arXiv\]](https://arxiv.org/abs/1909.02129)
-[\[Paper\]](https://www.ri.cmu.edu/publications/towards-precise-robotic-grasping-by-probabilistic-post-grasp-displacement-estimation/)
 [<img class="pub-img" src="{{ site.baseurl }}assets/imgs/fsr_nn.png">](https://www.ri.cmu.edu/publications/towards-precise-robotic-grasping-by-probabilistic-post-grasp-displacement-estimation/)
 
 #### GPU-Accelerated Robotic Simulation for Distributed Reinforcement Learning
@@ -94,7 +115,6 @@ Tokyo, Japan, August 2019.
 Conference on Robot Learning (CoRL).
 Zurich, Switzerland, October 2018.
 [\[arXiv\]](https://arxiv.org/abs/1810.05762)
-[\[PDF\]](https://arxiv.org/pdf/1810.05762.pdf)
 [\[Website\]](https://sites.google.com/view/accelerated-gpu-simulation/home)
 [<img class="pub-img" src="{{ site.baseurl }}assets/imgs/gpu-rl.png"> ](https://sites.google.com/view/accelerated-gpu-simulation/home)
 
@@ -133,7 +153,6 @@ February 2020.
 Kevin Zhang\*, Mohit Sharma\*, **Jacky Liang**\*, Oliver Kroemer.
 November 2020.
 [\[arXiv\]](https://arxiv.org/abs/2011.02398)
-[\[PDF\]](https://arxiv.org/pdf/2011.02398.pdf)
 [<img class="pub-img" src="{{ site.baseurl }}assets/imgs/RobotInterfaceFlipped.png">](https://arxiv.org/abs/2011.02398)
 
 <small>\* Equal Contribution.</small>
@@ -172,6 +191,7 @@ Fall 2016, 2017 Discussion Teaching Assistant
 * [Policy Search in Continuous Action Domains: an Overview](https://arxiv.org/abs/1803.04706)
 * [A Visual Guide to Evolution Strategies](http://blog.otoro.net/2017/10/29/visual-evolution-strategies/)
 * [Lie Groups for 2D and 3D Transformations](http://ethaneade.com/lie.pdf)
+* [Optimization inequalities cheatsheet](http://fa.bianp.net/blog/2017/optimization-inequalities-cheatsheet/)
 * [Common Academic Experiences No One Talks About: Repeated Rejection, Impostor Syndrome, and Burnout](https://journals.sagepub.com/doi/abs/10.1177/1745691619898848)
 
 ## Piano Improvs
