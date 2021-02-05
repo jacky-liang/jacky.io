@@ -160,6 +160,8 @@ November 2020.
 
 ## Teaching
 
+#### 16-350 Planning Techniques for Robotics
+Spring 2021 Teaching Assistant
 #### 16-662 Robot Autonomy
 Spring 2020 Teaching Assistant
 #### CS188 Introduction to Artificial Intelligence
