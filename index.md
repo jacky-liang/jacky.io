@@ -4,7 +4,7 @@ layout: default
 
 ## Hello!
 
-I'm a second year PhD student at Carnegie Mellon University's [Robotics Institute](https://www.ri.cmu.edu/), and I'm co-advised by [Prof. Oliver Kroemer](https://www.ri.cmu.edu/ri-faculty/oliver-kroemer/) and [Prof. Maxim Likhachev](http://www.cs.cmu.edu/~maxim/). 
+I'm a third year PhD student at Carnegie Mellon University's [Robotics Institute](https://www.ri.cmu.edu/), and I'm co-advised by [Prof. Oliver Kroemer](https://www.ri.cmu.edu/ri-faculty/oliver-kroemer/) and [Prof. Maxim Likhachev](http://www.cs.cmu.edu/~maxim/). 
 
 My research interest lies in enabling robots to perform complex tasks in semi-structured environments by combining methods in model-based planning and model-free learning, closing the sim-to-real gap with active exploration, and improving the robustness of learned policies with informed priors.
 
