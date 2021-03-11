@@ -54,14 +54,15 @@ December 2020.
 [\[Website\]](https://sites.google.com/view/articulated-objects/home)
 [<img class="pub-img" src="{{ site.baseurl }}assets/imgs/cloak.png">](https://sites.google.com/view/articulated-objects/home)
 
+### Conference Papers
+
 #### Contact Localization for Robot Arms in Motion without Torque Sensing
 **Jacky Liang**, Oliver Kroemer.
-November 2020.
+International Conference on Robotics and Automation (ICRA).
+May 2021.
 [\[arXiv\]](https://arxiv.org/abs/2011.03142)
 [\[Website\]](https://sites.google.com/view/ct-loc/)
 [<img class="pub-img" src="{{ site.baseurl }}assets/imgs/ct_sensing.png">](https://sites.google.com/view/ct-loc/)
-
-### Conference Papers
 
 #### Learning to Compose Hierarchical Object-Centric Controllers for Robotic Manipulation
 Mohit Sharma\*, **Jacky Liang**\*, Jialiang Zhao, Alex LaGrassa, Oliver Kroemer.
