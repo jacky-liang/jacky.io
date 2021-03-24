@@ -17,14 +17,12 @@ I also enjoy playing and improvising on the piano - you can find some of my piec
 
 <hr>
 
-## Updates
+## Articles
 
 *12/9/2020* - New article covering DeepMind's AlphaFold 2:
 
 [DeepMind’s AlphaFold 2—An Impressive Advance With Hyperbolic Coverage](https://www.skynettoday.com/briefs/alphafold2)
 [<img class="pub-img" src="{{ site.baseurl }}assets/imgs/alphafold2.png">](https://www.skynettoday.com/briefs/alphafold2)
-
-*7/22/2020* - Started a [personal blog](/blog)!
 
 *6/22/2020* - Check out our brief on the recent developments over the use of face recognition technology by law enforcement:
 
