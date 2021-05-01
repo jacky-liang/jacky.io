@@ -123,8 +123,8 @@ Conference on Automation Science and Engineering (CASE).
 Xi'an, China, August 2017. 
 Finalist, Best Student Paper Award. 
 [\[PDF\]](https://berkeleyautomation.github.io/teleop/documents/DY-Teleop-CASE-2017_final.pdf)
-[\[Website\]](https://berkeleyautomation.github.io/teleop/)
-[<img class="pub-img" src="{{ site.baseurl }}assets/imgs/dy-teleop_web.jpg">](https://berkeleyautomation.github.io/teleop/)
+[\[Website\]](https://sites.google.com/view/dy-teleop/home)
+[<img class="pub-img" src="{{ site.baseurl }}assets/imgs/dy-teleop_web.jpg">](https://sites.google.com/view/dy-teleop/home/)
 
 #### Dex-Net 2.0: Deep Learning to Plan Robust Grasps with Synthetic Point Clouds and Analytic Grasp Metrics
 Jeffrey Mahler, **Jacky Liang**, Sherdil Niyaz, Michael Laskey, Richard Doan, Xinyu Liu, Juan Aparicio Ojea, Ken Goldberg. Robotics: Science and Systems (RSS). 
