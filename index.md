@@ -188,6 +188,7 @@ Fall 2016, 2017 Discussion Teaching Assistant
 ## Assorted Links
 
 * [A Review of Robot Learning for Manipulation: Challenges, Representations, and Algorithms](https://arxiv.org/abs/1907.03146)
+* [How to avoid machine learning pitfalls: a guide for academic researchers](https://arxiv.org/abs/2108.02497)
 * [Monte Carlo Gradient Estimation in Machine Learning](https://arxiv.org/abs/1906.10652)
 * [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
 * [Policy Search in Continuous Action Domains: an Overview](https://arxiv.org/abs/1803.04706)
