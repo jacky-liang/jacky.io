@@ -6,14 +6,13 @@ layout: default
 
 I'm a third year PhD student at Carnegie Mellon University's [Robotics Institute](https://www.ri.cmu.edu/), and I'm co-advised by [Prof. Oliver Kroemer](https://www.ri.cmu.edu/ri-faculty/oliver-kroemer/) and [Prof. Maxim Likhachev](http://www.cs.cmu.edu/~maxim/). 
 
-My research interest lies in enabling robots to perform complex tasks in semi-structured environments by combining methods in model-based planning and model-free learning, closing the sim-to-real gap with active exploration, and improving the robustness of learned policies with informed priors.
+My research interests are in enabling robust and generalizable robot manipulation by explicitly reasoning about contacts, efficiently collecting interaction data in both simulation and the real world, and incorporating structured manipulation priors into learning-based methods.
 
 Before joining RI I interned at NVIDIA for the [Isaac project](https://www.nvidia.com/en-us/deep-learning-ai/industries/robotics/) and worked on using GPU-accelerated physics simulations for robot learning.
 Before that and during my time at UC Berkeley I did research in robot grasping and manipulation with [Prof. Ken Goldberg](http://goldberg.berkeley.edu/).
 
 In my spare time I write for and co-run [Skynet Today](https://www.skynettoday.com), a website dedicated to covering AI news and trends without hype. 
 Check us out and [subscribe](https://www.skynettoday.com/subscribe) if you like what you see :)
-<!-- I also enjoy playing and improvising on the piano - you can find some of my pieces on [SoundCloud](https://soundcloud.com/rocket-flumes/sets/improvs-and-provs). -->
 
 <hr>
 
