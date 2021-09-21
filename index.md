@@ -43,7 +43,14 @@ Check us out and [subscribe](https://www.skynettoday.com/subscribe) if you like 
 
 ## Research
 
-<!-- ### Preprints -->
+### Preprints
+
+#### Search-Based Task Planning with Learned Skill Effect Models for Lifelong Robotic Manipulation
+**Jacky Liang**\*, Mohit Sharma\*, Alex LaGrassa, Shivam Vats, Saumya Saxena, Oliver Kroemer.
+September 2021.
+[\[arXiv\]](https://arxiv.org/abs/2109.08771)
+[\[Website\]](https://sites.google.com/view/sem-for-lifelong-manipulation)
+[<img class="pub-img" src="{{ site.baseurl }}assets/imgs/sem.png">](https://sites.google.com/view/sem-for-lifelong-manipulation)
 
 ### Conference Papers
 
