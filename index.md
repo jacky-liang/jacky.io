@@ -72,7 +72,7 @@ May 2021.
 #### Learning to Compose Hierarchical Object-Centric Controllers for Robotic Manipulation
 Mohit Sharma\*, **Jacky Liang**\*, Jialiang Zhao, Alex LaGrassa, Oliver Kroemer.
 Conference on Robot Learning (CoRL).
-Novemeber 2020.
+November 2020.
 Plenary Presentation.
 [\[arXiv\]](https://arxiv.org/abs/2011.04627)
 [\[Website\]](https://sites.google.com/view/compositional-object-control/)
