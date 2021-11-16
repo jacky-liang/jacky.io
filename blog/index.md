@@ -2,7 +2,7 @@
 layout: blog
 ---
 
-# [Research Tips](./2021-11-16-research)
+# [Research Tips](./2021-11-16-research-tips)
 
 #### November 16th, 2021
 
