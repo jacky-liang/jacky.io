@@ -2,9 +2,9 @@
 layout: blog
 ---
 
-# [Research Tips](./2021-11-10-research)
+# [Research Tips](./2021-11-16-research)
 
-#### November 10th, 2021
+#### November 16th, 2021
 
 A list of research tips for grad students.
 
