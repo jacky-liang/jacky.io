@@ -2,11 +2,11 @@
 layout: blog
 ---
 
-# [Tips on Research](./2021-11-10-research)
+# [Research Tips](./2021-11-10-research)
 
 #### November 10th, 2021
 
-List of research tips for grad students collected mostly from personal experience.
+A list of research tips for grad students.
 
 # [How (not) to Fall Asleep](./2020-07-22-sleep)
 
