@@ -81,7 +81,7 @@ So, while I hope these tips can help you in your research, do take them with a g
 
 ## Staying Positive
 
-- **When reacting to new ideas, avoid "it won't work because of this" and instead go for "it might work if this happens".**
+- **When reacting to new ideas, avoid "it won't work because of X" and instead go for "it might work if X happens".**
 
   This "positive" framing is super important both when we discuss research with others and when we think about research ourselves. It creates a sense of forward momentum and focuses our attention on what's possible.
 
@@ -89,7 +89,7 @@ So, while I hope these tips can help you in your research, do take them with a g
 
   This applies to things like scrolling Twitter feeds and browsing conference publications.
 
-- **Just because something feels easy to you doesn't mean it's easy to everyone.**
+- **Just because something is easy to you doesn't mean it's easy to everyone.**
 
   A lot of folks, myself included, tend to put a premium on difficult and complex problems, ideas, and skills. However, using difficulty to gauge value is flawed since it may vary wildly among different people, and in any case value does not always correlate with scarcity. We should avoid this tendency and instead take advantage of the things that come easy to us.
 
