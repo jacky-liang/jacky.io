@@ -13,7 +13,7 @@ So, while I hope these tips can help you in your research, do take them with a g
 
 ## Choosing Problems and Ideas
 
-- **Work on what you believe to be the most important problem.**
+- **Always work on what you believe to be the most important problem.**
 
   Rate problems by a combination of novelty, usefulness, and practicality. 
 
