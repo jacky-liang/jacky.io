@@ -11,29 +11,22 @@ My research focuses on enabling robust and generalizable robot manipulation by e
 Before joining RI I interned at NVIDIA for the [Isaac project](https://www.nvidia.com/en-us/deep-learning-ai/industries/robotics/) and worked on using GPU-accelerated physics simulations for robot learning.
 Before that and during my time at UC Berkeley I did research in robot grasping and manipulation with [Prof. Ken Goldberg](http://goldberg.berkeley.edu/).
 
-In my spare time I write for and co-run [Skynet Today](https://www.skynettoday.com), a website dedicated to covering AI news and trends without hype. 
-Check us out and [subscribe](https://www.skynettoday.com/subscribe) if you like what you see :)
+In my spare time I write for and co-run [Skynet Today](https://www.skynettoday.com), and the [Last Week in AI newsletter](https://lastweekin.ai/).
+Our goal is to demystify and disseminate AI news without the hype. 
+Check us out and [subscribe](https://lastweekin.ai/) if you like what you see :)
 
 <hr>
 
-## Articles
+## Selected Articles
 
-*12/9/2020* - New article covering DeepMind's AlphaFold 2:
+[Why we don't have Robot Butlers yet](https://lastweekin.ai/p/robot-butlers)
+[<img class="pub-img" src="{{ site.baseurl }}assets/imgs/robot_butler.png">](https://lastweekin.ai/p/robot-butlers)
 
 [DeepMind’s AlphaFold 2—An Impressive Advance With Hyperbolic Coverage](https://www.skynettoday.com/briefs/alphafold2)
 [<img class="pub-img" src="{{ site.baseurl }}assets/imgs/alphafold2.png">](https://www.skynettoday.com/briefs/alphafold2)
 
-*6/22/2020* - Check out our brief on the recent developments over the use of face recognition technology by law enforcement:
-
-[IBM, Microsoft, and Amazon Halt Sales of Facial Recognition to Police, Call for Regulations](https://www.skynettoday.com/briefs/face-recog-police)
-[<img class="pub-img" src="{{ site.baseurl }}assets/imgs/face-recog.jpg">](https://www.skynettoday.com/briefs/face-recog-police)
-
-*10/22/2019* - Our article covering the contributions of and the responses to OpenAI's in-hand Rubik's cube manipulation work:
-
 [OpenAI's dexterous robotic hand — separating progress from PR](https://www.skynettoday.com/briefs/openai-rubiks-cube)
 [<img class="pub-img" src="{{ site.baseurl }}assets/imgs/dr.png">](https://www.skynettoday.com/briefs/openai-rubiks-cube)
-
-*2/4/2019* - Check out this in-depth article I've co-written on the impact of AI and automation on jobs! We've done a thorough review on recent studies and tried to give a balanced take on the subject:
 
 [Job loss due to AI - How bad is it going to be?](https://www.skynettoday.com/editorials/ai-automation-job-loss)
 [<img class="pub-img" src="{{ site.baseurl }}assets/imgs/robots.png">](https://www.skynettoday.com/editorials/ai-automation-job-loss)
