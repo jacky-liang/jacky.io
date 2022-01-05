@@ -178,6 +178,14 @@ Fall 2016, 2017 Discussion Teaching Assistant
 
 <hr>
 
+## Open-Source Libraries
+
+* [FrankaPy](https://github.com/iamlab-cmu/frankapy) - Python library for controlling the Franka Emika Panda robot arm.
+* [IsaacGym-Utils](https://github.com/iamlab-cmu/isaacgym-utils) - Python library that provides simpler APIs for the [Nvidia Isaac Gym](https://developer.nvidia.com/isaac-gym) robot simulator
+* [Simple ZMQ](https://github.com/jacky-liang/simple_zmq) - Python library that uses zmq to send arbtirary objects over a network
+* [Async Savers](https://github.com/jacky-liang/async_savers) - Python library for asyncrhonously saving data in shards
+* [Data Learning Boilerplate](https://github.com/jacky-liang/data-learning-boilerplate) - Boilerplate Python code for collecting data and training neural networks using [W&B](https://wandb.ai/) and [PyTorch Lightning](https://www.pytorchlightning.ai/)
+
 ## Useful Tools
 
 * [Symbolic Matrix Differentiation](http://www.matrixcalculus.org/matrixCalculus)
