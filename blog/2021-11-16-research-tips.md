@@ -2,7 +2,7 @@
 layout: blog_post
 title: Research Tips
 description: A list of research tips for grad students.
-date: November 16th, 2022
+date: November 16th, 2021
 ---
 
 Here are some research tips I've collected during the my past few years in grad school.
