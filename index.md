@@ -35,16 +35,17 @@ Check us out and [subscribe](https://lastweekin.ai/) if you like what you see :)
 
 ## Research
 
-### Preprints
+<!-- ### Preprints -->
+
+### Conference Papers
 
 #### Search-Based Task Planning with Learned Skill Effect Models for Lifelong Robotic Manipulation
 **Jacky Liang**\*, Mohit Sharma\*, Alex LaGrassa, Shivam Vats, Saumya Saxena, Oliver Kroemer.
-September 2021.
+International Conference on Robotics and Automation (ICRA).
+May 2022.
 [\[arXiv\]](https://arxiv.org/abs/2109.08771)
 [\[Website\]](https://sites.google.com/view/sem-for-lifelong-manipulation)
 [<img class="pub-img" src="{{ site.baseurl }}assets/imgs/sem.png">](https://sites.google.com/view/sem-for-lifelong-manipulation)
-
-### Conference Papers
 
 #### Visual Identification of Articulated Object Parts
 Vicky Zeng, Timothy E. Lee\*, **Jacky Liang**\*, Oliver Kroemer.
