@@ -192,6 +192,7 @@ Fall 2016, 2017 Discussion Teaching Assistant
 * [Symbolic Matrix Differentiation](http://www.matrixcalculus.org/matrixCalculus)
 * [Pytorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning)
 * [Hydra Configs](https://hydra.cc/)
+* [Online URDF Editor](http://www.mymodelrobot.appspot.com/5629499534213120)
 
 ## Assorted Links
 
