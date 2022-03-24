@@ -11,7 +11,7 @@ My research focuses on enabling robust and generalizable robot manipulation by e
 Before joining RI I interned at NVIDIA for the [Isaac project](https://www.nvidia.com/en-us/deep-learning-ai/industries/robotics/) and worked on using GPU-accelerated physics simulations for robot learning.
 Before that and during my time at UC Berkeley I did research in robot grasping and manipulation with [Prof. Ken Goldberg](http://goldberg.berkeley.edu/).
 
-In my spare time I write for and co-run [Skynet Today](https://www.skynettoday.com), and the [Last Week in AI newsletter](https://lastweekin.ai/).
+In my spare time I write for and co-run [Skynet Today](https://www.skynettoday.com) and the [Last Week in AI newsletter](https://lastweekin.ai/).
 Our goal is to demystify and disseminate AI news without the hype. 
 Check us out and [subscribe](https://lastweekin.ai/) if you like what you see :)
 
