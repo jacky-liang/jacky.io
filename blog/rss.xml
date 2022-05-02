@@ -6,9 +6,39 @@
   <link>https://www.jacky.io/blog</link>
   <description>Jacky Liang Blog</description>
   <item>
+    <title>Foundation Models and the Future of Multi-Modal AI</title>
+    <link>https://lastweekin.ai/p/multi-modal-ai</link>
+    <description>Recent advances that combine large language and vision models can perform impressive tasks surprisingly well, and this direction holds a lot of promise for the future of AI</description>
+  </item>
+  <item>
+    <title>Neural nets are not "slightly conscious," and AI PR can do with less hype</title>
+    <link>https://lastweekin.ai/p/conscious-ai</link>
+    <description>Prominent AI researchers should take accurate science communication more seriously.</description>
+  </item>
+  <item>
+    <title>How AI-Powered Robots Fulfill Your Online Orders</title>
+    <link>https://lastweekin.ai/p/robot-picking</link>
+    <description>AI-powered robots are slowly taking over tedious tasks in warehouses, and it's just the beginning.</description>
+  </item>
+  <item>
+    <title>Getting Data for Robot AI — Hard, but Possible</title>
+    <link>https://lastweekin.ai/p/robot-data</link>
+    <description>Embodied AI agents need data of interactions with the real world, which is far more difficult to get than data of other AI domains like vision and language.</description>
+  </item>
+  <item>
+    <title>Futuristic Hardware for Intelligent Robots</title>
+    <link>https://lastweekin.ai/p/robot-hardware</link>
+    <description>What advances in hardware do we need to build intelligent robots of the future?</description>
+  </item>
+  <item>
     <title>Research Tips</title>
     <link>https://www.jacky.io/blog/2021-11-16-research-tips</link>
     <description>A list of research tips for grad students.</description>
+  </item>
+  <item>
+    <title>Why we don't have Robot Butlers yet</title>
+    <link>https://lastweekin.ai/p/robot-butlers</link>
+    <description>AI is necessary for autonomous robots of the future; its development and deployment is full of incredible challenges and promising opportunities.</description>
   </item>
   <item>
     <title>How (not) to Fall Asleep</title>
