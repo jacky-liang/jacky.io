@@ -20,7 +20,7 @@ Prominent AI researchers should take accurate science communication more serious
 
 AI-powered robots are slowly taking over tedious tasks in warehouses, and it's just the beginning.
 
-# [Getting Data for Robot AI — Hard, but Possible](https://lastweekin.ai/p/robot-butlers)
+# [Getting Data for Robot AI — Hard, but Possible](https://lastweekin.ai/p/robot-data)
 
 #### December 10th, 2021
 
