@@ -35,7 +35,14 @@ Check us out and [subscribe](https://lastweekin.ai/) if you like what you see :)
 
 ## Research
 
-<!-- ### Preprints -->
+### Preprints
+
+#### Learning Preconditions of Hybrid Force-Velocity Controllers for Contact-Rich Manipulation
+**Jacky Liang**, Xianyi Cheng, Oliver Kroemer.
+June 2022.
+[\[arXiv\]](https://arxiv.org/abs/2206.12728)
+[\[Website\]](https://sites.google.com/view/sem-for-lifelong-manipulation)
+[<img class="pub-img" src="{{ site.baseurl }}assets/imgs/real__lotion_bottle__wall_wall.png">](https://arxiv.org/abs/2206.12728)
 
 ### Conference Papers
 
