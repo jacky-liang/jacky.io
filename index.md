@@ -44,6 +44,13 @@ June 2022.
 [\[Website\]](https://sites.google.com/view/constrained-manipulation/)
 [<img class="pub-img" src="{{ site.baseurl }}assets/imgs/real__lotion_bottle__wall_wall.png">](https://arxiv.org/abs/2206.12728)
 
+#### Inner Monologue: Embodied Reasoning through Planning with Language Models
+Wenlong Huang\*, Fei Xia\*, Ted Xiao\*, Harris Chan, **Jacky Liang**, Pete Florence, Andy Zeng, Jonathan Tompson, Igor Mordatch, Yevgen Chebotar, Pierre Sermanet, Noah Brown, Tomas Jackson, Linda Luu, Sergey Levine, Karol Hausman, Brian Ichter
+July 2022.
+[\[arXiv\]](https://arxiv.org/abs/2207.05608)
+[\[Website\]](https://innermonologue.github.io/)
+[<img class="pub-img" src="{{ site.baseurl }}assets/imgs/innermonologue.png">](https://innermonologue.github.io/)
+
 ### Conference Papers
 
 #### Search-Based Task Planning with Learned Skill Effect Models for Lifelong Robotic Manipulation
