@@ -35,23 +35,25 @@ Check us out and [subscribe](https://lastweekin.ai/) if you like what you see :)
 
 ## Research
 
-### Preprints
+<!-- ### Preprints -->
+
+### Conference Papers
 
 #### Learning Preconditions of Hybrid Force-Velocity Controllers for Contact-Rich Manipulation
 **Jacky Liang**, Xianyi Cheng, Oliver Kroemer.
-June 2022.
+Conference on Robot Learning (CoRL).
+Dec 2022.
 [\[arXiv\]](https://arxiv.org/abs/2206.12728)
 [\[Website\]](https://sites.google.com/view/constrained-manipulation/)
 [<img class="pub-img" src="{{ site.baseurl }}assets/imgs/real__lotion_bottle__wall_wall.png">](https://arxiv.org/abs/2206.12728)
 
 #### Inner Monologue: Embodied Reasoning through Planning with Language Models
 Wenlong Huang\*, Fei Xia\*, Ted Xiao\*, Harris Chan, **Jacky Liang**, Pete Florence, Andy Zeng, Jonathan Tompson, Igor Mordatch, Yevgen Chebotar, Pierre Sermanet, Noah Brown, Tomas Jackson, Linda Luu, Sergey Levine, Karol Hausman, Brian Ichter.
-July 2022.
+Conference on Robot Learning (CoRL).
+Dec 2022.
 [\[arXiv\]](https://arxiv.org/abs/2207.05608)
 [\[Website\]](https://innermonologue.github.io/)
 [<img class="pub-img" src="{{ site.baseurl }}assets/imgs/innermonologue.png">](https://innermonologue.github.io/)
-
-### Conference Papers
 
 #### Search-Based Task Planning with Learned Skill Effect Models for Lifelong Robotic Manipulation
 **Jacky Liang**\*, Mohit Sharma\*, Alex LaGrassa, Shivam Vats, Saumya Saxena, Oliver Kroemer.
@@ -81,7 +83,7 @@ May 2021.
 Mohit Sharma\*, **Jacky Liang**\*, Jialiang Zhao, Alex LaGrassa, Oliver Kroemer.
 Conference on Robot Learning (CoRL).
 November 2020.
-Plenary Presentation.
+**Plenary Presentation**.
 [\[arXiv\]](https://arxiv.org/abs/2011.04627)
 [\[Website\]](https://sites.google.com/view/compositional-object-control/)
 [<img class="pub-img" src="{{ site.baseurl }}assets/imgs/controllers.png">](https://sites.google.com/view/compositional-object-control/)
