@@ -35,7 +35,17 @@ Check us out and [subscribe](https://lastweekin.ai/) if you like what you see :)
 
 ## Research
 
-<!-- ### Preprints -->
+### Preprints
+
+#### Code as Policies: Language Model Programs for Embodied Control
+**Jacky Liang**, Wenlong Huang, Fei Xia, Peng Xu, Karol Hausman, Pete Florence, Andy Zeng.
+September 2022.
+[\[arXiv\]](https://arxiv.org/abs/2209.07753)
+[\[Website\]](https://code-as-policies.github.io/)
+[<video id="v0" width="100%" preload="auto" playsinline muted loop autoplay style="margin-top: 10px;">
+    <source src="{{ site.baseurl }}assets/imgs/tasks.mp4" type="video/mp4">
+</video>
+](https://code-as-policies.github.io/)
 
 ### Conference Papers
 
