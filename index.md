@@ -6,7 +6,7 @@ layout: default
 
 I'm a PhD candidate at Carnegie Mellon University's [Robotics Institute](https://www.ri.cmu.edu/), and I'm co-advised by [Prof. Oliver Kroemer](https://www.ri.cmu.edu/ri-faculty/oliver-kroemer/) and [Prof. Maxim Likhachev](http://www.cs.cmu.edu/~maxim/). 
 
-My research focuses on enabling robust and generalizable robot manipulation by explicitly reasoning about contacts, efficiently collecting interaction data in both simulation and the real world, and incorporating structured manipulation priors into learning-based methods.
+My research focuses on enabling robust and generalizable robot manipulation by incorporating structured manipulation priors into learning-based methods.
 
 Before joining RI I interned at NVIDIA for the [Isaac project](https://www.nvidia.com/en-us/deep-learning-ai/industries/robotics/) and worked on using GPU-accelerated physics simulations for robot learning.
 Before that and during my time at UC Berkeley I did research in robot grasping and manipulation with [Prof. Ken Goldberg](http://goldberg.berkeley.edu/).
@@ -14,22 +14,6 @@ Before that and during my time at UC Berkeley I did research in robot grasping a
 In my spare time I write for and co-run [Skynet Today](https://www.skynettoday.com) and the [Last Week in AI newsletter](https://lastweekin.ai/).
 Our goal is to demystify and disseminate AI news without the hype. 
 Check us out and [subscribe](https://lastweekin.ai/) if you like what you see :)
-
-<hr>
-
-## Selected Articles
-
-[Why we don't have Robot Butlers yet](https://lastweekin.ai/p/robot-butlers)
-[<img class="pub-img" src="{{ site.baseurl }}assets/imgs/robot_butler.png">](https://lastweekin.ai/p/robot-butlers)
-
-[DeepMind’s AlphaFold 2—An Impressive Advance With Hyperbolic Coverage](https://www.skynettoday.com/briefs/alphafold2)
-[<img class="pub-img" src="{{ site.baseurl }}assets/imgs/alphafold2.png">](https://www.skynettoday.com/briefs/alphafold2)
-
-[OpenAI's dexterous robotic hand — separating progress from PR](https://www.skynettoday.com/briefs/openai-rubiks-cube)
-[<img class="pub-img" src="{{ site.baseurl }}assets/imgs/dr.png">](https://www.skynettoday.com/briefs/openai-rubiks-cube)
-
-[Job loss due to AI - How bad is it going to be?](https://www.skynettoday.com/editorials/ai-automation-job-loss)
-[<img class="pub-img" src="{{ site.baseurl }}assets/imgs/robots.png">](https://www.skynettoday.com/editorials/ai-automation-job-loss)
 
 <hr>
 
@@ -55,7 +39,10 @@ Conference on Robot Learning (CoRL).
 Dec 2022.
 [\[arXiv\]](https://arxiv.org/abs/2206.12728)
 [\[Website\]](https://sites.google.com/view/constrained-manipulation/)
-[<img class="pub-img" src="{{ site.baseurl }}assets/imgs/real__lotion_bottle__wall_wall.png">](https://arxiv.org/abs/2206.12728)
+[<video id="v0" width="100%" preload="auto" playsinline muted loop autoplay style="margin-top: 10px;">
+    <source src="{{ site.baseurl }}assets/imgs/hfvc_collage.mp4" type="video/mp4">
+</video>
+](https://sites.google.com/view/constrained-manipulation/)
 
 #### Inner Monologue: Embodied Reasoning through Planning with Language Models
 Wenlong Huang\*, Fei Xia\*, Ted Xiao\*, Harris Chan, **Jacky Liang**, Pete Florence, Andy Zeng, Jonathan Tompson, Igor Mordatch, Yevgen Chebotar, Pierre Sermanet, Noah Brown, Tomas Jackson, Linda Luu, Sergey Levine, Karol Hausman, Brian Ichter.
@@ -63,7 +50,9 @@ Conference on Robot Learning (CoRL).
 Dec 2022.
 [\[arXiv\]](https://arxiv.org/abs/2207.05608)
 [\[Website\]](https://innermonologue.github.io/)
-[<img class="pub-img" src="{{ site.baseurl }}assets/imgs/innermonologue.png">](https://innermonologue.github.io/)
+[<video id="v0" width="100%" preload="auto" playsinline muted loop autoplay style="margin-top: 10px;">
+    <source src="https://innermonologue.github.io/img/im_teaser_compressed.mp4" type="video/mp4">
+</video>](https://innermonologue.github.io/)
 
 #### Search-Based Task Planning with Learned Skill Effect Models for Lifelong Robotic Manipulation
 **Jacky Liang**\*, Mohit Sharma\*, Alex LaGrassa, Shivam Vats, Saumya Saxena, Oliver Kroemer.
