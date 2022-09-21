@@ -6,7 +6,7 @@ layout: default
 
 I'm a PhD candidate at Carnegie Mellon University's [Robotics Institute](https://www.ri.cmu.edu/), and I'm co-advised by [Prof. Oliver Kroemer](https://www.ri.cmu.edu/ri-faculty/oliver-kroemer/) and [Prof. Maxim Likhachev](http://www.cs.cmu.edu/~maxim/). 
 
-My research focuses on enabling robust and generalizable robot manipulation by incorporating structured manipulation priors into learning-based methods.
+My research focuses on enabling robust and generalizable robot manipulation by explicitly reasoning about contacts, efficiently collecting interaction data in both simulation and the real world, and incorporating structured manipulation priors into learning-based methods.
 
 Before joining RI I interned at NVIDIA for the [Isaac project](https://www.nvidia.com/en-us/deep-learning-ai/industries/robotics/) and worked on using GPU-accelerated physics simulations for robot learning.
 Before that and during my time at UC Berkeley I did research in robot grasping and manipulation with [Prof. Ken Goldberg](http://goldberg.berkeley.edu/).
