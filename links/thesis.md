@@ -1,5 +1,5 @@
 ---
 title: PhD Thesis Proposal
-redirect: https://cmu.box.com/s/zcg36pbiqhop5pgtlu3dcbrkqlq8alk4
+redirect: https://cmu.box.com/s/mfh5rp96aku9rgjmmps9bbt7eg41awxm
 layout: redirect
 ---
