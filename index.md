@@ -4,7 +4,7 @@ layout: default
 
 ## Hello!
 
-I'm a robotics researcher with a PhD from Carnegie Mellon University's [Robotics Institute](https://www.ri.cmu.edu/), co-advised by [Prof. Oliver Kroemer](https://www.ri.cmu.edu/ri-faculty/oliver-kroemer/) and [Prof. Maxim Likhachev](http://www.cs.cmu.edu/~maxim/). 
+I'm a robotics researcher with a PhD from Carnegie Mellon University's [Robotics Institute](https://www.ri.cmu.edu/), co-advised by [Prof. Oliver Kroemer](https://www.ri.cmu.edu/ri-faculty/oliver-kroemer/) and [Prof. Maxim Likhachev](http://www.cs.cmu.edu/~maxim/). My PhD thesis is on [Learning with Structured Priors for Robust Robot Manipulation](https://www.ri.cmu.edu/publications/learning-with-structured-priors-for-robust-robot-manipulation/)
 
 My research focuses on enabling robust and generalizable robot manipulation by explicitly reasoning about contacts, efficiently collecting interaction data in both simulation and the real world, and incorporating structured manipulation priors into learning-based methods.
 
