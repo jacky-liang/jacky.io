@@ -8,7 +8,7 @@ layout: blog
 
 New chatbots powered by large-language models are much more capable than those that came before, but it'll be a while before they make their way into commercial applications.
 
-[<img class="pub-img" src="{{ site.baseurl }}assets/imgs/chatbot.webp">](https://lastweekin.ai/p/ai-chatbots)
+[<img class="pub-img" src="/assets/imgs/chatbot.webp">](https://lastweekin.ai/p/ai-chatbots)
 
 # [Foundation Models and the Future of Multi-Modal AI](https://lastweekin.ai/p/multi-modal-ai)
 
@@ -16,7 +16,7 @@ New chatbots powered by large-language models are much more capable than those t
 
 Recent advances that combine large language and vision models can perform impressive tasks surprisingly well, and this direction holds a lot of promise for the future of AI
 
-[<img class="pub-img" src="{{ site.baseurl }}assets/imgs/foundation_models.webp">](https://lastweekin.ai/p/multi-modal-ai)
+[<img class="pub-img" src="/assets/imgs/foundation_models.webp">](https://lastweekin.ai/p/multi-modal-ai)
 
 # [Neural nets are not "slightly conscious," and AI PR can do with less hype](https://lastweekin.ai/p/conscious-ai)
 
@@ -24,7 +24,7 @@ Recent advances that combine large language and vision models can perform impres
 
 Prominent AI researchers should take accurate science communication more seriously.
 
-[<img class="pub-img" src="{{ site.baseurl }}assets/imgs/conscious-ai.webp">](https://lastweekin.ai/p/conscious-ai)
+[<img class="pub-img" src="/assets/imgs/conscious-ai.webp">](https://lastweekin.ai/p/conscious-ai)
 
 # [How AI-Powered Robots Fulfill Your Online Orders](https://lastweekin.ai/p/robot-picking)
 
@@ -33,7 +33,7 @@ Prominent AI researchers should take accurate science communication more serious
 AI-powered robots are slowly taking over tedious tasks in warehouses, and it's just the beginning.
 
 [<video id="v0" width="100%" preload="auto" playsinline muted loop autoplay style="margin-top: 10px;">
-    <source src="{{ site.baseurl }}assets/imgs/nimble.mp4" type="video/mp4">
+    <source src="/assets/imgs/nimble.mp4" type="video/mp4">
 </video>
 ](https://lastweekin.ai/p/robot-picking)
 
@@ -44,7 +44,7 @@ AI-powered robots are slowly taking over tedious tasks in warehouses, and it's j
 Embodied AI agents need data of interactions with the real world, which is far more difficult to get than data of other AI domains like vision and language.
 
 [<video id="v0" width="100%" preload="auto" playsinline muted loop autoplay style="margin-top: 10px;">
-    <source src="{{ site.baseurl }}assets/imgs/shadow_hand.mp4" type="video/mp4">
+    <source src="/assets/imgs/shadow_hand.mp4" type="video/mp4">
 </video>
 ](https://lastweekin.ai/p/robot-data)
 
@@ -54,7 +54,7 @@ Embodied AI agents need data of interactions with the real world, which is far m
 
 What advances in hardware do we need to build intelligent robots of the future?
 
-[<img class="pub-img" src="{{ site.baseurl }}assets/imgs/robot-hardware.webp">](https://lastweekin.ai/p/robot-hardware)
+[<img class="pub-img" src="/assets/imgs/robot-hardware.webp">](https://lastweekin.ai/p/robot-hardware)
 
 # [Research Tips](./2021-11-16-research-tips)
 
@@ -68,7 +68,7 @@ A list of research tips for grad students.
 
 AI is necessary for autonomous robots of the future; its development and deployment is full of incredible challenges and promising opportunities
 
-[<img class="pub-img" src="{{ site.baseurl }}assets/imgs/robot_butler.png">](https://lastweekin.ai/p/robot-butlers)
+[<img class="pub-img" src="/assets/imgs/robot_butler.png">](https://lastweekin.ai/p/robot-butlers)
 
 # [DeepMind’s AlphaFold 2—An Impressive Advance With Hyperbolic Coverage](https://www.skynettoday.com/briefs/alphafold2)
 
@@ -76,7 +76,7 @@ AI is necessary for autonomous robots of the future; its development and deploym
 
 The results are encouraging, but journalist ebullience belies the difficulties ahead.
 
-[<img class="pub-img" src="{{ site.baseurl }}assets/imgs/alphafold2.png">](https://www.skynettoday.com/briefs/alphafold2)
+[<img class="pub-img" src="/assets/imgs/alphafold2.png">](https://www.skynettoday.com/briefs/alphafold2)
 
 # [How (not) to Fall Asleep](./2020-07-22-sleep)
 
@@ -90,7 +90,7 @@ Here's a list and review of 20 things I've tried to help me fall asleep - some w
 
 The Rubik’s cube solving hand is representative of a true research contribution, but its many caveats do not merit the PR hype
 
-[<img class="pub-img" src="{{ site.baseurl }}assets/imgs/dr.png">](https://www.skynettoday.com/briefs/openai-rubiks-cube)
+[<img class="pub-img" src="/assets/imgs/dr.png">](https://www.skynettoday.com/briefs/openai-rubiks-cube)
 
 # [Job loss due to AI - How bad is it going to be?](https://www.skynettoday.com/editorials/ai-automation-job-loss)
 
@@ -98,4 +98,4 @@ The Rubik’s cube solving hand is representative of a true research contributio
 
 Studies suggest the impact of AI on jobs in the near future will not be significantly more disruptive than the impact of automation in the past
 
-[<img class="pub-img" src="{{ site.baseurl }}assets/imgs/robots.png">](https://www.skynettoday.com/editorials/ai-automation-job-loss)
+[<img class="pub-img" src="/assets/imgs/robots.png">](https://www.skynettoday.com/editorials/ai-automation-job-loss)
