@@ -191,7 +191,7 @@ Fall 2016, 2017 Discussion Teaching Assistant
 
 ## Education
 
-#### Carnegie Mellon University. _Robotics Institute_. PhD Student
+#### Carnegie Mellon University. _Robotics Institute_. PhD
 
 #### University of California Berkeley. _Electrical Engineering and Computer Science_. Bachelor of Science, Class of 2018
 
@@ -199,6 +199,7 @@ Fall 2016, 2017 Discussion Teaching Assistant
 
 ## Open-Source Libraries
 
+* [Language Model Programs](https://colab.research.google.com/drive/124TE4TsGYyrvduzeDclufyvwcc2qbbrE) - Interactive colab notebook that implements language model programs for a simulated table-top manipulation domain.
 * [FrankaPy](https://github.com/iamlab-cmu/frankapy) - Python library for controlling the Franka Emika Panda robot arm.
 * [IsaacGym-Utils](https://github.com/iamlab-cmu/isaacgym-utils) - Python library that provides simpler APIs for the [Nvidia Isaac Gym](https://developer.nvidia.com/isaac-gym) robot simulator
 * [Simple ZMQ](https://github.com/jacky-liang/simple_zmq) - Python library that uses zmq to send arbtirary objects over a network
