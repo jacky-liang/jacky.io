@@ -4,12 +4,13 @@ layout: default
 
 ## Hello!
 
-I'm a robotics researcher with a PhD from Carnegie Mellon University's [Robotics Institute](https://www.ri.cmu.edu/), co-advised by [Prof. Oliver Kroemer](https://www.ri.cmu.edu/ri-faculty/oliver-kroemer/) and [Prof. Maxim Likhachev](http://www.cs.cmu.edu/~maxim/). 
-My research focuses on enabling robust and generalizable robot manipulation by explicitly reasoning about contacts, efficiently collecting interaction data in both simulation and the real world, and incorporating structured manipulation priors into learning-based methods.
+I'm a research scientist at [Robotics at Google](https://research.google/research-areas/robotics/), and my research focus is on foundation models for robotics.
+I received my PhD from Carnegie Mellon University's [Robotics Institute](https://www.ri.cmu.edu/), co-advised by [Prof. Oliver Kroemer](https://www.ri.cmu.edu/ri-faculty/oliver-kroemer/) and [Prof. Maxim Likhachev](http://www.cs.cmu.edu/~maxim/). 
 My PhD thesis is on [Learning with Structured Priors for Robust Robot Manipulation](https://www.ri.cmu.edu/publications/learning-with-structured-priors-for-robust-robot-manipulation/).
+A recording of my PhD defense is [here](jacky.io/links/defense).
 
-Before joining RI I interned at NVIDIA for the [Isaac project](https://www.nvidia.com/en-us/deep-learning-ai/industries/robotics/) and worked on using GPU-accelerated physics simulations for robot learning.
-Before that and during my time at UC Berkeley I did research in robot grasping and manipulation with [Prof. Ken Goldberg](http://goldberg.berkeley.edu/).
+Previously, I interned at NVIDIA for the [Isaac project](https://www.nvidia.com/en-us/deep-learning-ai/industries/robotics/), applying GPU-accelerated physics simulations for robot learning.
+During my time at UC Berkeley, I did research in robot grasping and manipulation with [Prof. Ken Goldberg](http://goldberg.berkeley.edu/).
 
 In my spare time I write for and co-run [Skynet Today](https://www.skynettoday.com) and the [Last Week in AI newsletter](https://lastweekin.ai/).
 Our goal is to demystify and disseminate AI news without hype. 
@@ -19,19 +20,21 @@ Check us out and [subscribe](https://lastweekin.ai/) if you like what you see :)
 
 ## Research
 
-### Preprints
+<!-- ### Preprints -->
+
+### Conference Papers
 
 #### Code as Policies: Language Model Programs for Embodied Control
 **Jacky Liang**, Wenlong Huang, Fei Xia, Peng Xu, Karol Hausman, Brian Ichter, Pete Florence, Andy Zeng.
-September 2022.
+International Conference on Robotics and Automation (ICRA).
+June 2023.
+**Finalist, Best Paper in Robot Learning**.
 [\[arXiv\]](https://arxiv.org/abs/2209.07753)
 [\[Website\]](https://code-as-policies.github.io/)
 [<video id="v0" width="100%" preload="auto" playsinline muted loop autoplay style="margin-top: 10px;">
     <source src="{{ site.baseurl }}assets/imgs/tasks.mp4" type="video/mp4">
 </video>
 ](https://code-as-policies.github.io/)
-
-### Conference Papers
 
 #### Learning Preconditions of Hybrid Force-Velocity Controllers for Contact-Rich Manipulation
 **Jacky Liang**, Xianyi Cheng, Oliver Kroemer.
@@ -114,21 +117,21 @@ May 2020.
 #### Homography-Based Deep Visual Servoing Methods for Planar Grasps
 Austin S. Wang, Wuming Zhang, Daniel Troniak, **Jacky Liang**, Oliver Kroemer.
 International Conference on Intelligent Robots and Systems (IROS).
-Macau, China, November 2019.
+November 2019.
 [\[Paper\]](https://www.ri.cmu.edu/publications/homography-based-deep-visual-servoing-methods-for-planar-grasps/)
 [<img class="pub-img" src="{{ site.baseurl }}assets/imgs/efort.png">](https://www.ri.cmu.edu/publications/homography-based-deep-visual-servoing-methods-for-planar-grasps/)
 
 #### Towards Precise Robotic Grasping by Probabilistic Post-grasp Displacement Estimation
 Jialiang Zhao, **Jacky Liang**, Oliver Kroemer. 
 Field and Service Robotics (FSR).
-Tokyo, Japan, August 2019.
+August 2019.
 [\[arXiv\]](https://arxiv.org/abs/1909.02129)
 [<img class="pub-img" src="{{ site.baseurl }}assets/imgs/fsr_nn.png">](https://www.ri.cmu.edu/publications/towards-precise-robotic-grasping-by-probabilistic-post-grasp-displacement-estimation/)
 
 #### GPU-Accelerated Robotic Simulation for Distributed Reinforcement Learning
 **Jacky Liang**\*, Viktor Makoviychuk\*, Ankur Handa\*, Nuttapong Chentanez, Miles Macklin, Dieter Fox. 
 Conference on Robot Learning (CoRL).
-Zurich, Switzerland, October 2018.
+October 2018.
 [\[arXiv\]](https://arxiv.org/abs/1810.05762)
 [\[Website\]](https://sites.google.com/view/accelerated-gpu-simulation/home)
 [<img class="pub-img" src="{{ site.baseurl }}assets/imgs/gpu-rl.png"> ](https://sites.google.com/view/accelerated-gpu-simulation/home)
@@ -136,8 +139,8 @@ Zurich, Switzerland, October 2018.
 #### Using dVRK Teleoperation to Facilitate Deep Learning of Automation Tasks for an Industrial Robot
 **Jacky Liang**, Jeffrey Mahler, Michael Laskey, Pusong Li, Ken Goldberg. 
 Conference on Automation Science and Engineering (CASE).
-Xi'an, China, August 2017. 
-Finalist, Best Student Paper Award. 
+August 2017. 
+**Finalist, Best Student Paper Award**. 
 [\[PDF\]](https://berkeleyautomation.github.io/teleop/documents/DY-Teleop-CASE-2017_final.pdf)
 [\[Website\]](https://sites.google.com/view/dy-teleop/home)
 [<img class="pub-img" src="{{ site.baseurl }}assets/imgs/dy-teleop_web.jpg">](https://sites.google.com/view/dy-teleop/home/)
