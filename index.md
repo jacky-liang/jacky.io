@@ -4,7 +4,7 @@ layout: default
 
 ## Hello!
 
-I'm a research scientist at [Robotics at Google](https://research.google/research-areas/robotics/), and my research focus is on foundation models for robotics.
+I'm a research scientist at [Google DeepMind](https://www.deepmind.com/), and my research focus is on foundation models for robotics.
 I received my PhD from Carnegie Mellon University's [Robotics Institute](https://www.ri.cmu.edu/), co-advised by [Prof. Oliver Kroemer](https://www.ri.cmu.edu/ri-faculty/oliver-kroemer/) and [Prof. Maxim Likhachev](http://www.cs.cmu.edu/~maxim/). 
 My PhD thesis is on [Learning with Structured Priors for Robust Robot Manipulation](https://www.ri.cmu.edu/publications/learning-with-structured-priors-for-robust-robot-manipulation/).
 A recording of my PhD defense is [here](jacky.io/links/defense).
