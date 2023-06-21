@@ -28,7 +28,7 @@ Check us out and [subscribe](https://lastweekin.ai/) if you like what you see :)
 **Jacky Liang**, Wenlong Huang, Fei Xia, Peng Xu, Karol Hausman, Brian Ichter, Pete Florence, Andy Zeng.
 International Conference on Robotics and Automation (ICRA).
 June 2023.
-**Finalist, Outstanding Paper in Robot Learning**.
+**Outstanding Paper in Robot Learning**.
 [\[arXiv\]](https://arxiv.org/abs/2209.07753)
 [\[Website\]](https://code-as-policies.github.io/)
 [<video id="v0" width="100%" preload="auto" playsinline muted loop autoplay style="margin-top: 10px;">
